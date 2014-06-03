@@ -1,0 +1,36 @@
+######################################
+# Primera División 2013/13
+#
+# Original Copy @ www.rsssf.com/tabless/span2013.html
+#
+# Prepared and maintained by Karel Stokkermans the Rec.Sport.Soccer Statistics Foundation
+#
+# Author: Karel Stokkermans 
+# Last updated: 7 Jun 2013
+#
+# (C) Copyright Karel Stokkermans and RSSSF 2013
+
+
+# Final Table:
+# 
+#  1.FC Barcelona                  38  32  4  2 115-40 100  Champions
+#  2.Real Madrid CF                38  26  7  5 103-42  85
+#  3.Atlético de Madrid            38  23  7  8  65-31  76
+#  4.Real Sociedad (San Sebastián) 38  18 12  8  70-49  66
+#  5.Valencia CF                   38  19  8 11  67-54  65
+#  6.Málaga CF                     38  16  9 13  53-50  57
+#  7.Real Betis Balompié (Sevilla) 38  16  8 14  57-56  56
+#  8.Rayo Vallecano                38  16  5 17  50-66  53
+#  9.Sevilla FC                    38  14  8 16  58-54  50
+# 10.Getafe CF                     38  13  8 17  43-57  47
+# 11.Levante UD (Valencia)         38  12 10 16  40-57  46
+# 12.Athletic de Bilbao            38  12  9 17  44-65  45
+# 13.RCD Espanyol (Barcelona)      38  11 11 16  43-52  44
+# 14.Real Valladolid               38  11 10 17  49-58  43
+# 15.Granada CF                    38  11  9 18  37-54  42
+# 16.CA Osasuna (Pamplona)         38  10  9 19  33-50  39
+# 17.RC Celta (Vigo)               38  10  7 21  37-52  37
+# --------------------------------------------------------
+# 18.RCD Mallorca (Palma de M.)    38   9  9 20  43-72  36  Relegated
+# 19.RC Deportivo (La Coruña)      38   8 11 19  47-70  35  Relegated
+# 20.Real Zaragoza                 38   9  7 22  37-62  34  Relegated
