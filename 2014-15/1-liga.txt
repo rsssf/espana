@@ -263,6 +263,22 @@ Sociedad                  1-0 Barcelona
 [Jan 5]
 Córdoba                   2-0 Granada
 
+Round 18
+[Jan 9]
+Levante                   0-0 Deportivo
+[Jan 10]
+Madrid                    3-0 Espanyol
+Málaga                    1-1 Villarreal
+Celta                     1-1 Valencia
+Eibar                     2-1 Getafe
+[Jan 11]
+Almería                   0-2 Sevilla
+Athletic                  1-2 Elche
+Granada                   1-1 Sociedad
+Barcelona                 3-1 Atlético
+[Jan 12]
+Rayo                      0-1 Córdoba
+
 Round 19
 [Jan 16]
 Córdoba                   1-1 Eibar
