@@ -1,0 +1,166 @@
+## Copa del Rey
+
+Round 1 [Sep 4]
+CD Sariñena               1-0 CD Puerta Bonita          [aet]
+UE Sant Andreu            2-1 SCR Peña D. Santa Eulalia
+CD Laudio (Llodio)        3-1 Real Unión de Irún        [aet]
+Barakaldo CF              1-0 SD Amorebieta
+CD Leganés                3-0 CD Atlético Granadilla
+CD Tropezón (Tanos)       0-1 CD Tuilla                 [aet]
+UE Olot                   3-2 Huracán Valencia CF
+Caudal Deportivo (Mieres) 1-0 Racing Club de Ferrol
+Club Haro Deportivo       0-0 Real Oviedo               [aet, 4-2 pen]
+Burgos CF                 3-1 AD San Juan (Pamplona)    [aet]
+FC Cartagena              2-1 CD Guadalajara
+Gimnàstic de Tarragona    1-1 CD Alcoyano               [aet, 4-2 pen]
+CD Toledo                 0-1 SD Huesca
+Algeciras CF              2-1 Novelda CF
+Écija Balompié            2-2 La Hoya Lorca CF          [aet, 3-2 pen]
+CD El Palo (Málaga)       1-1 Xerez CD                  [aet, 2-4 pen]
+Extremadura UD            1-2 Albacete Balompié
+San Fernando CD           1-0 Real Balompédica Linense
+
+Round 2
+[Sep 10]
+Deportivo Alavés          1-0 Real Zaragoza
+RCD Mallorca              1-4 AD Alcorcón
+[Sep 11]
+Girona FC                 2-1 SD Ponferradina
+Gimnàstic de Tarragona    1-1 Albacete Balompié         [aet, 4-1 pen]
+UE Sant Andreu            2-0 UE Olot
+CE Sabadell               1-3 UD Las Palmas
+CE L'Hospitalet           3-4 Real Racing de Santander  [aet]
+UE Lleida                 2-0 Caudal Deportivo (Mieres)
+SD Eibar                  1-0 CD Tenerife
+CD Tuilla                 0-3 Burgos CF
+CD Leganés                5-1 Lucena CF
+Club Haro Deportivo       1-0 CD Sariñena
+CD Olímpic de Xàtiva      1-0 Barakaldo CF
+Xerez CD                  1-1 CF Fuenlabrada            [aet, 4-3 pen]
+SD Huesca                 0-1 FC Cartagena
+CD Lugo                   1-1 CD Mirandés               [aet, 4-3 pen]
+Écija Balompié            0-2 CD Laudio (Llodio)
+Hércules de Alicante CF   2-0 Real Murcia CF
+Real Jaén CF              1-0 CD Numancia
+RC Recreativo de Huelva   3-2 Real Sporting de Gijón    [aet]
+Córdoba CF                2-2 RC Deportivo La Coruña    [aet, 12-13 pen]
+San Fernando CD           0-1 CD Tudelano               [aet]
+
+Round 3
+[Oct 16]
+CD Tudelano               1-4 FC Cartagena
+Real Jaén CF              2-0 RC Deportivo La Coruña
+CD Laudio (Llodio)        2-2 CD Olímpic de Xàtiva      [aet, 7-8 pen]
+Club Haro Deportivo       1-1 Algeciras CF              [aet, 1-3 pen]
+Burgos CF                 0-1 Gimnàstic de Tarragona
+Xerez CD                  1-3 UE Lleida
+CD Leganés                1-1 Real Racing de Santander  [aet, 3-5 pen]
+Girona FC                 0-0 Deportivo Alavés          [aet, 4-2 pen]
+RC Recreativo de Huelva   1-0 CD Lugo
+[Oct 17]
+SD Eibar                  1-2 AD Alcorcón               [aet]
+UD Las Palmas             3-0 Hércules de Alicante CF
+
+Round 4
+First Legs
+[Dec 6]
+UE Lleida                 1-2 Real Betis Balompié
+Villarreal CF             2-2 Elche CF
+Algeciras CF              1-1 Real Sociedad
+Real Racing de Santander  0-1 Sevilla FC
+FC Cartagena              1-4 FC Barcelona
+Real Valladolid CF        0-0 Rayo Vallecano
+[Dec 7]
+UE Sant Andreu            0-4 Atlético de Madrid
+Girona FC                 1-1 Getafe CF
+RC Celta de Vigo          1-0 Athletic Club (Bilbao)
+CD Olímpic de Xàtiva      0-0 Real Madrid CF
+RC Recreativo de Huelva   1-0 Levante UD
+[Dec 8]
+AD Alcorcón               0-2 Granada CF
+Gimnàstic de Tarragona    0-0 Valencia CF
+UD Las Palmas             1-3 UD Almería
+Real Jaén CF              2-2 RCD Espanyol
+Málaga CF                 3-3 CA Osasuna
+
+Second Legs
+[Dec 17]
+Elche CF                  0-1 Villarreal CF
+Getafe CF                 4-1 Girona FC
+Levante UD                4-0 RC Recreativo de Huelva
+CA Osasuna                1-1 Málaga CF
+FC Barcelona              3-0 FC Cartagena
+Granada CF                0-2 AD Alcorcón               [aet, 4-5 pen]
+[Dec 18]
+Atlético de Madrid        2-1 UE Sant Andreu
+Real Betis Balompié       2-2 UE Lleida
+Real Sociedad             4-0 Algeciras CF
+UD Almería                0-0 UD Las Palmas
+Real Madrid CF            2-0 CD Olímpic de Xàtiva
+Sevilla FC                0-2 Real Racing de Santander
+[Dec 19]
+Rayo Vallecano            3-1 Real Valladolid CF
+RCD Espanyol              2-0 Real Jaén CF
+Valencia CF               1-0 Gimnàstic de Tarragona
+Athletic Club (Bilbao)    4-0 RC Celta de Vigo
+
+1/8 Finals
+First Legs
+[Jan 7]
+Valencia CF               1-1 Atlético de Madrid
+[Jan 8]
+AD Alcorcón               1-0 RCD Espanyol
+Real Betis Balompié       1-0 Athletic Club (Bilbao)
+FC Barcelona              4-0 Getafe CF
+Real Racing de Santander  1-1 UD Almería
+[Jan 9]
+Real Sociedad             0-0 Villarreal CF
+Rayo Vallecano            0-0 Levante UD
+Real Madrid CF            2-0 CA Osasuna
+
+Second Legs
+[Jan 14]
+UD Almería                0-2 Real Racing de Santander
+Atlético de Madrid        2-0 Valencia CF
+[Jan 15]
+Athletic Club (Bilbao)    2-0 Real Betis Balompié
+RCD Espanyol              4-2 AD Alcorcón
+Levante UD                1-0 Rayo Vallecano
+CA Osasuna                0-2 Real Madrid CF
+[Jan 16]
+Villarreal CF             0-1 Real Sociedad
+Getafe CF                 0-2 FC Barcelona
+
+Quarterfinals
+First Legs
+[Jan 21]
+RCD Espanyol              0-1 Real Madrid CF
+[Jan 22]
+Real Sociedad             3-1 Real Racing de Santander
+Levante UD                1-4 FC Barcelona
+[Jan 23]
+Atlético de Madrid        1-0 Athletic Club (Bilbao)
+
+Second Legs
+[Jan 28]
+Real Madrid CF            1-0 RCD Espanyol
+[Jan 29]
+Athletic Club (Bilbao)    1-2 Atlético de Madrid
+FC Barcelona              5-1 Levante UD
+[Jan 30]
+Real Racing de Santander  awd Real Sociedad             [awarded 0-3, Racing dns]
+
+Semifinals
+First Legs [Feb 5]
+Real Madrid CF            3-0 Atlético de Madrid
+FC Barcelona              2-0 Real Sociedad
+
+Second Legs
+[Feb 11]
+Atlético de Madrid        0-2 Real Madrid CF
+[Feb 12]
+Real Sociedad             1-1 FC Barcelona
+
+Final [Apr 16, Valencia]
+FC Barcelona              1-2 Real Madrid CF
+
