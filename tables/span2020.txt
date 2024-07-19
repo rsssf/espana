@@ -1,0 +1,930 @@
+<!--
+   source: https://rsssf.org/tabless/span2020.html
+  -->
+
+
+
+## Spain 2019/20
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+‹Primera División, see §laliga›
+‹Copa del Rey, see §coparey›
+‹Segunda División, see §segunda›
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### Primera División  ‹§laliga›
+
+
+Final Table:
+
+ 1.Real Madrid CF                38  26  9  3  70-25  87       Champions
+ 2.FC Barcelona                  38  25  7  6  86-38  82  [C]
+ 3.Atlético de Madrid            38  18 16  4  51-27  70       [2 0 2 0 3-3 2]
+ 4.Sevilla FC                    38  19 13  6  54-34  70       [2 0 2 0 3-3 2]
+ 5.Villarreal CF                 38  18  6 14  63-49  60
+ 6.Real Sociedad (San Sebastián) 38  16  8 14  56-48  56       [2 1 0 1 4-4 3]
+ 7.Granada CF                    38  16  8 14  52-45  56  [P]  [2 1 0 1 4-4 3]
+ 8.Getafe CF                     38  14 12 12  43-37  54
+ 9.Valencia CF                   38  14 11 13  46-53  53
+10.CA Osasuna (Pamplona)         38  13 13 12  46-54  52  [P]
+11.Athletic de Bilbao            38  13 12 13  41-38  51
+12.Levante UD (Valencia)         38  14  7 17  47-53  49
+13.Real Valladolid               38   9 15 14  32-43  42       [2 1 0 1 3-3 3]
+14.SD Eibar                      38  11  9 18  39-56  42       [2 1 0 1 3-3 3]
+15.Real Betis Balompié (Sevilla) 38  10 11 17  48-60  41
+16.Deportivo Alavés (Vitoria)    38  10  9 19  34-59  39
+17.RC Celta (Vigo)               38   7 16 15  37-49  37
+--------------------------------------------------------
+18.CD Leganés                    38   8 12 18  30-51  36       Relegated
+19.RCD Mallorca (Palma de M.)    38   9  6 23  40-65  33  [P]  Relegated
+20.RCD Espanyol (Barcelona)      38   5 10 23  27-58  25       Relegated
+
+Round 1
+[Aug 16]
+Athletic                  1-0 Barcelona
+[Aug 17]
+Celta                     1-3 Madrid
+Valencia                  1-1 Sociedad
+Mallorca                  2-1 Eibar
+Leganés                   0-1 Osasuna
+Villarreal                4-4 Granada
+[Aug 18]
+Alavés                    1-0 Levante
+Espanyol                  0-2 Sevilla
+Betis                     1-2 Valladolid
+Atlético                  1-0 Getafe
+
+Round 2
+[Aug 23]
+Granada                   0-1 Sevilla
+Levante                   2-1 Villarreal
+[Aug 24]
+Osasuna                   0-0 Eibar
+Madrid                    1-1 Valladolid
+Getafe                    1-1 Athletic
+Celta                     1-0 Valencia
+[Aug 25]
+Alavés                    0-0 Espanyol
+Mallorca                  0-1 Sociedad
+Leganés                   0-1 Atlético
+Barcelona                 5-2 Betis
+
+Round 3
+[Aug 30]
+Sevilla                   1-1 Celta
+Athletic                  2-0 Sociedad
+[Aug 31]
+Osasuna                   2-2 Barcelona
+Getafe                    1-1 Alavés
+Levante                   2-0 Valladolid
+Betis                     2-1 Leganés
+[Sep 1]
+Valencia                  2-0 Mallorca
+Atlético                  3-2 Eibar
+Espanyol                  0-3 Granada
+Villarreal                2-2 Madrid
+
+Round 4
+[Sep 13]
+Mallorca                  0-0 Athletic
+[Sep 14]
+Madrid                    3-2 Levante
+Leganés                   0-3 Villarreal
+Sociedad                  2-0 Atlético
+Barcelona                 5-2 Valencia
+[Sep 15]
+Eibar                     1-2 Espanyol
+Alavés                    0-1 Sevilla
+Celta                     0-2 Granada
+Valladolid                1-1 Osasuna
+Betis                     1-1 Getafe
+
+Round 5
+[Sep 20]
+Osasuna                   0-0 Betis
+[Sep 21]
+Villarreal                2-0 Valladolid
+Levante                   0-0 Eibar
+Atlético                  0-0 Celta
+Granada                   2-0 Barcelona
+[Sep 22]
+Getafe                    4-2 Mallorca
+Espanyol                  1-3 Sociedad
+Valencia                  1-1 Leganés
+Athletic                  2-0 Alavés
+Sevilla                   0-1 Madrid
+
+Round 6
+[Sep 24]
+Valladolid                1-1 Granada
+Betis                     3-1 Levante
+Barcelona                 2-1 Villarreal
+[Sep 25]
+Leganés                   1-1 Athletic
+Mallorca                  0-2 Atlético
+Valencia                  3-3 Getafe
+Madrid                    2-0 Osasuna
+[Sep 26]
+Eibar                     3-2 Sevilla
+Celta                     1-1 Espanyol
+Sociedad                  3-0 Alavés
+
+Round 7
+[Sep 27]
+Villarreal                5-1 Betis
+[Sep 28]
+Athletic                  0-1 Valencia
+Getafe                    0-2 Barcelona
+Granada                   1-0 Leganés
+Atlético                  0-0 Madrid
+[Sep 29]
+Espanyol                  0-2 Valladolid
+Eibar                     2-0 Celta
+Alavés                    2-0 Mallorca
+Levante                   1-1 Osasuna
+Sevilla                   3-2 Sociedad
+
+Round 8
+[Oct 4]
+Betis                     1-1 Eibar
+[Oct 5]
+Leganés                   1-2 Levante
+Madrid                    4-2 Granada
+Valencia                  2-1 Alavés
+Osasuna                   2-1 Villarreal
+[Oct 6]
+Mallorca                  2-0 Espanyol
+Celta                     1-0 Athletic
+Valladolid                0-0 Atlético
+Sociedad                  1-2 Getafe
+Barcelona                 4-0 Sevilla
+
+Round 9
+[Oct 18]
+Granada                   1-0 Osasuna
+[Oct 19]
+Eibar                     0-3 Barcelona
+Atlético                  1-1 Valencia
+Getafe                    2-0 Leganés
+Mallorca                  1-0 Madrid
+[Oct 20]
+Alavés                    2-0 Celta
+Sociedad                  3-1 Betis
+Espanyol                  0-1 Villarreal
+Athletic                  1-1 Valladolid
+Sevilla                   1-0 Levante
+
+Round 10
+[Oct 25]
+Villarreal                4-1 Alavés
+Leganés                   1-0 Mallorca
+[Oct 26]
+Valladolid                2-0 Eibar
+Atlético                  2-0 Athletic
+[Oct 27]
+Celta                     0-1 Sociedad
+Granada                   1-0 Betis
+Levante                   0-1 Espanyol
+Sevilla                   2-0 Getafe
+Osasuna                   3-1 Valencia
+[Dec 18]
+Barcelona                 0-0 Madrid
+
+Round 11
+[Oct 29]
+Alavés                    1-1 Atlético
+Barcelona                 5-1 Valladolid
+[Oct 30]
+Sociedad                  1-2 Levante
+Valencia                  1-1 Sevilla
+Athletic                  3-0 Espanyol
+Betis                     2-1 Celta
+Madrid                    5-0 Leganés
+[Oct 31]
+Mallorca                  2-2 Osasuna
+Eibar                     2-1 Villarreal
+Getafe                    3-1 Granada
+
+Round 12
+[Nov 2]
+Espanyol                  1-2 Valencia
+Levante                   3-1 Barcelona
+Sevilla                   1-1 Atlético
+Madrid                    0-0 Betis
+[Nov 3]
+Valladolid                3-0 Mallorca
+Villarreal                0-0 Athletic
+Osasuna                   4-2 Alavés
+Celta                     0-1 Getafe
+Leganés                   1-2 Eibar
+Granada                   1-2 Sociedad
+
+Round 13
+[Nov 8]
+Sociedad                  1-1 Leganés
+[Nov 9]
+Alavés                    3-0 Valladolid
+Valencia                  2-0 Granada
+Eibar                     0-4 Madrid
+Barcelona                 4-1 Celta
+[Nov 10]
+Mallorca                  3-1 Villarreal
+Athletic                  2-1 Levante
+Atlético                  3-1 Espanyol
+Getafe                    0-0 Osasuna
+Betis                     1-2 Sevilla
+
+Round 14
+[Nov 22]
+Levante                   2-1 Mallorca
+[Nov 23]
+Leganés                   1-2 Barcelona
+Betis                     2-1 Valencia
+Granada                   1-1 Atlético
+Madrid                    3-1 Sociedad
+[Nov 24]
+Espanyol                  1-1 Getafe
+Osasuna                   1-2 Athletic
+Eibar                     0-2 Alavés
+Villarreal                1-3 Celta
+Valladolid                0-1 Sevilla
+
+Round 15
+[Nov 29]
+Celta                     0-0 Valladolid
+[Nov 30]
+Alavés                    1-2 Madrid
+Sociedad                  4-1 Eibar
+Mallorca                  1-2 Betis
+Valencia                  2-1 Villarreal
+[Dec 1]
+Sevilla                   1-0 Leganés
+Athletic                  2-0 Granada
+Espanyol                  2-4 Osasuna
+Getafe                    4-0 Levante
+Atlético                  0-1 Barcelona
+
+Round 16
+[Dec 6]
+Villarreal                0-0 Atlético
+[Dec 7]
+Madrid                    2-0 Espanyol
+Granada                   3-0 Alavés
+Levante                   2-4 Valencia
+Barcelona                 5-2 Mallorca
+[Dec 8]
+Eibar                     0-1 Getafe
+Betis                     3-2 Athletic
+Valladolid                0-0 Sociedad
+Leganés                   3-2 Celta
+Osasuna                   1-1 Sevilla
+
+Round 17
+[Dec 13]
+Alavés                    1-1 Leganés
+[Dec 14]
+Granada                   1-2 Levante
+Sociedad                  2-2 Barcelona
+Athletic                  0-0 Eibar
+Atlético                  2-0 Osasuna
+[Dec 15]
+Getafe                    2-0 Valladolid
+Celta                     2-2 Mallorca
+Espanyol                  2-2 Betis
+Sevilla                   1-2 Villarreal
+Valencia                  1-1 Madrid
+
+Round 18
+[Dec 20]
+Eibar                     3-0 Granada
+[Dec 21]
+Mallorca                  0-2 Sevilla
+Barcelona                 4-1 Alavés
+Villarreal                1-0 Getafe
+Valladolid                1-1 Valencia
+[Dec 22]
+Leganés                   2-0 Espanyol
+Osasuna                   3-4 Sociedad
+Betis                     1-2 Atlético
+Levante                   3-1 Celta
+Madrid                    0-0 Athletic
+
+Round 19
+[Jan 3]
+Valladolid                2-2 Leganés
+Sevilla                   1-1 Athletic
+[Jan 4]
+Valencia                  1-0 Eibar
+Getafe                    0-3 Madrid
+Atlético                  2-1 Levante
+Espanyol                  2-2 Barcelona
+[Jan 5]
+Granada                   1-0 Mallorca
+Sociedad                  1-2 Villarreal
+Alavés                    1-1 Betis
+Celta                     1-1 Osasuna
+
+Halfway Table:
+
+ 1.FC Barcelona                  19  12  4  3  49-23  40  [C]
+ 2.Real Madrid CF                19  11  7  1  36-12  40
+ 3.Atlético de Madrid            19   9  8  2  22-12  35
+ 4.Sevilla FC                    19  10  5  4  24-18  35
+ 5.Real Sociedad (San Sebastián) 19   9  4  6  33-25  31
+ 6.Valencia CF                   19   8  7  4  29-25  31
+ 7.Getafe CF                     19   8  6  5  26-20  30
+ 8.Athletic de Bilbao            19   7  8  4  20-13  29
+ 9.Villarreal CF                 19   8  4  7  33-26  28
+10.Granada CF                    19   8  3  8  25-25  27  [P]
+11.Levante UD (Valencia)         19   8  2  9  26-29  26
+12.CA Osasuna (Pamplona)         19   5  9  5  26-25  24  [P]
+13.Real Betis Balompié (Sevilla) 19   6  6  7  26-32  24
+14.Real Valladolid               19   4  9  6  17-23  21
+15.Deportivo Alavés (Vitoria)    19   5  5  9  20-29  20
+16.SD Eibar                      19   5  4 10  18-29  19
+17.RC Celta (Vigo)               19   3  6 10  16-29  15
+--------------------------------------------------------
+18.RCD Mallorca (Palma de M.)    19   4  3 12  18-33  15  [P]
+19.CD Leganés                    19   3  5 11  16-30  14
+20.RCD Espanyol (Barcelona)      19   2  5 12  14-36  11
+
+Round 20
+[Jan 17]
+Leganés                   0-3 Getafe
+[Jan 18]
+Levante                   0-1 Alavés
+Madrid                    2-1 Sevilla
+Osasuna                   0-0 Valladolid
+Eibar                     2-0 Atlético
+[Jan 19]
+Mallorca                  4-1 Valencia
+Betis                     3-0 Sociedad
+Villarreal                1-2 Espanyol
+Athletic                  1-1 Celta
+Barcelona                 1-0 Granada
+
+Round 21
+[Jan 24]
+Osasuna                   2-0 Levante
+[Jan 25]
+Espanyol                  1-1 Athletic
+Valencia                  2-0 Barcelona
+Alavés                    1-2 Villarreal
+Sevilla                   2-0 Granada
+[Jan 26]
+Atlético                  0-0 Leganés
+Celta                     0-0 Eibar
+Getafe                    1-0 Betis
+Sociedad                  3-0 Mallorca
+Valladolid                0-1 Madrid
+
+Round 22
+[Feb 1]
+Granada                   2-1 Espanyol
+Madrid                    1-0 Atlético
+Mallorca                  0-1 Valladolid
+Valencia                  1-0 Celta
+[Feb 2]
+Leganés                   2-1 Sociedad
+Eibar                     1-1 Betis
+Athletic                  0-2 Getafe
+Sevilla                   1-1 Alavés
+Villarreal                3-1 Osasuna
+Barcelona                 2-1 Levante
+
+Round 23
+[Feb 7]
+Alavés                    2-1 Eibar
+[Feb 8]
+Levante                   2-0 Leganés
+Getafe                    3-0 Valencia
+Valladolid                1-1 Villarreal
+Atlético                  1-0 Granada
+[Feb 9]
+Espanyol                  1-0 Mallorca
+Sociedad                  2-1 Athletic
+Osasuna                   1-4 Madrid
+Celta                     2-1 Sevilla
+Betis                     2-3 Barcelona
+
+Round 24
+[Feb 14]
+Valencia                  2-2 Atlético
+[Feb 15]
+Mallorca                  1-0 Alavés
+Barcelona                 2-1 Getafe
+Villarreal                2-1 Levante
+Granada                   2-1 Valladolid
+[Feb 16]
+Sevilla                   2-2 Espanyol
+Leganés                   0-0 Betis
+Athletic                  0-1 Osasuna
+Madrid                    2-2 Celta
+[Mar 10]
+Eibar                     1-2 Sociedad
+
+Round 25
+[Feb 21]
+Betis                     3-3 Mallorca
+[Feb 22]
+Celta                     1-0 Leganés
+Barcelona                 5-0 Eibar
+Sociedad                  3-0 Valencia
+Levante                   1-0 Madrid
+[Feb 23]
+Osasuna                   0-3 Granada
+Alavés                    2-1 Athletic
+Valladolid                2-1 Espanyol
+Getafe                    0-3 Sevilla
+Atlético                  3-1 Villarreal
+
+Round 26
+[Feb 28]
+Sociedad                  1-0 Valladolid
+[Feb 29]
+Eibar                     3-0 Levante
+Valencia                  2-1 Betis
+Leganés                   1-1 Alavés
+Granada                   0-0 Celta
+[Mar 1]
+Sevilla                   3-2 Osasuna
+Athletic                  1-0 Villarreal
+Espanyol                  1-1 Atlético
+Mallorca                  0-1 Getafe
+Madrid                    2-0 Barcelona
+
+Round 27
+[Mar 6]
+Alavés                    1-1 Valencia
+[Mar 7]
+Eibar                     1-2 Mallorca
+Atlético                  2-2 Sevilla
+Barcelona                 1-0 Sociedad
+Getafe                    0-0 Celta
+[Mar 8]
+Osasuna                   1-0 Espanyol
+Valladolid                1-4 Athletic
+Levante                   1-1 Granada
+Villarreal                1-2 Leganés
+Betis                     2-1 Madrid
+
+Round 28
+[Jun 11]
+Sevilla                   2-0 Betis
+[Jun 12]
+Granada                   2-1 Getafe
+Valencia                  1-1 Levante
+[Jun 13]
+Espanyol                  2-0 Alavés
+Celta                     0-1 Villarreal
+Leganés                   1-2 Valladolid
+Mallorca                  0-4 Barcelona
+[Jun 14]
+Athletic                  1-1 Atlético
+Madrid                    3-1 Eibar
+Sociedad                  1-1 Osasuna
+
+Round 29
+[Jun 15]
+Levante                   1-1 Sevilla
+Betis                     2-2 Granada
+[Jun 16]
+Getafe                    0-0 Espanyol
+Villarreal                1-0 Mallorca
+Barcelona                 2-0 Leganés
+[Jun 17]
+Valladolid                0-0 Celta
+Eibar                     2-2 Athletic
+Osasuna                   0-5 Atlético
+[Jun 18]
+Alavés                    2-0 Sociedad
+Madrid                    3-0 Valencia
+
+Round 30
+[Jun 19]
+Granada                   0-1 Villarreal
+Mallorca                  1-1 Leganés
+Sevilla                   0-0 Barcelona
+[Jun 20]
+Espanyol                  1-3 Levante
+Athletic                  1-0 Betis
+Getafe                    1-1 Eibar
+Atlético                  1-0 Valladolid
+[Jun 21]
+Celta                     6-0 Alavés
+Valencia                  2-0 Osasuna
+Sociedad                  1-2 Madrid
+
+Round 31
+[Jun 22]
+Villarreal                2-2 Sevilla
+Leganés                   0-0 Granada
+[Jun 23]
+Levante                   0-1 Atlético
+Valladolid                1-1 Getafe
+Barcelona                 1-0 Athletic
+[Jun 24]
+Alavés                    0-1 Osasuna
+Sociedad                  0-1 Celta
+Madrid                    2-0 Mallorca
+[Jun 25]
+Eibar                     1-0 Valencia
+Betis                     1-0 Espanyol
+
+Round 32
+[Jun 26]
+Sevilla                   1-1 Valladolid
+[Jun 27]
+Athletic                  3-1 Mallorca
+Celta                     2-2 Barcelona
+Osasuna                   2-1 Leganés
+Atlético                  2-1 Alavés
+[Jan 28]
+Levante                   4-2 Betis
+Villarreal                2-0 Valencia
+Granada                   1-2 Eibar
+Espanyol                  0-1 Madrid
+[Jan 29]
+Getafe                    2-1 Sociedad
+
+Round 33
+[Jun 30]
+Mallorca                  5-1 Celta
+Leganés                   0-3 Sevilla
+Barcelona                 2-2 Atlético
+[Jul 1]
+Alavés                    0-2 Granada
+Valencia                  0-2 Athletic
+Betis                     0-2 Villarreal
+Valladolid                0-0 Levante
+[Jul 2]
+Sociedad                  2-1 Espanyol
+Eibar                     0-2 Osasuna
+Madrid                    1-0 Getafe
+
+Round 34
+[Jul 3]
+Atlético                  3-0 Mallorca
+[Jul 4]
+Celta                     1-1 Betis
+Valladolid                1-0 Alavés
+Granada                   2-2 Valencia
+[Jul 5]
+Athletic                  0-1 Madrid
+Espanyol                  0-1 Leganés
+Osasuna                   0-0 Getafe
+Villarreal                1-4 Barcelona
+[Jul 6]
+Levante                   1-1 Sociedad
+Sevilla                   1-0 Eibar
+
+Round 35
+[Jul 7]
+Valencia                  2-1 Valladolid
+Celta                     1-1 Atlético
+[Jul 8]
+Getafe                    1-3 Villarreal
+Betis                     3-0 Osasuna
+Barcelona                 1-0 Espanyol
+[Jul 9]
+Mallorca                  2-0 Levante
+Eibar                     0-0 Leganés
+Athletic                  1-2 Sevilla
+[Jul 10]
+Sociedad                  2-3 Granada
+Madrid                    2-0 Alavés
+
+Round 36
+[Jul 11]
+Osasuna                   2-1 Celta
+Valladolid                0-1 Barcelona
+Atlético                  1-0 Betis
+[Jul 12]
+Espanyol                  0-2 Eibar
+Levante                   1-2 Athletic
+Leganés                   1-0 Valencia
+Sevilla                   2-0 Mallorca
+[Jul 13]
+Alavés                    0-0 Getafe
+Villarreal                1-2 Sociedad
+Granada                   1-2 Madrid
+
+Round 37 [Jul 16]
+Eibar                     3-1 Valladolid
+Athletic                  0-2 Leganés
+Barcelona                 1-2 Osasuna
+Getafe                    0-2 Atlético
+Celta                     2-3 Levante
+Mallorca                  1-2 Granada
+Betis                     1-2 Alavés
+Madrid                    2-1 Villarreal
+Sociedad                  0-0 Sevilla
+Valencia                  1-0 Espanyol
+
+Round 38 [Jul 19]
+Alavés                    0-5 Barcelona
+Valladolid                2-0 Betis
+Villarreal                4-0 Eibar
+Atlético                  1-1 Sociedad
+Osasuna                   2-2 Mallorca
+Leganés                   2-2 Madrid
+Granada                   4-0 Athletic
+Levante                   1-0 Getafe
+Espanyol                  0-0 Celta
+Sevilla                   1-0 Valencia
+
+Final Table:
+
+ 1.Real Madrid CF                38  26  9  3  70-25  87       Champions
+ 2.FC Barcelona                  38  25  7  6  86-38  82  [C]
+ 3.Atlético de Madrid            38  18 16  4  51-27  70       [2 0 2 0 3-3 2]
+ 4.Sevilla FC                    38  19 13  6  54-34  70       [2 0 2 0 3-3 2]
+ 5.Villarreal CF                 38  18  6 14  63-49  60
+ 6.Real Sociedad (San Sebastián) 38  16  8 14  56-48  56       [2 1 0 1 4-4 3]
+ 7.Granada CF                    38  16  8 14  52-45  56  [P]  [2 1 0 1 4-4 3]
+ 8.Getafe CF                     38  14 12 12  43-37  54
+ 9.Valencia CF                   38  14 11 13  46-53  53
+10.CA Osasuna (Pamplona)         38  13 13 12  46-54  52  [P]
+11.Athletic de Bilbao            38  13 12 13  41-38  51
+12.Levante UD (Valencia)         38  14  7 17  47-53  49
+13.Real Valladolid               38   9 15 14  32-43  42       [2 1 0 1 3-3 3]
+14.SD Eibar                      38  11  9 18  39-56  42       [2 1 0 1 3-3 3]
+15.Real Betis Balompié (Sevilla) 38  10 11 17  48-60  41
+16.Deportivo Alavés (Vitoria)    38  10  9 19  34-59  39
+17.RC Celta (Vigo)               38   7 16 15  37-49  37
+--------------------------------------------------------
+18.CD Leganés                    38   8 12 18  30-51  36       Relegated
+19.RCD Mallorca (Palma de M.)    38   9  6 23  40-65  33  [P]  Relegated
+20.RCD Espanyol (Barcelona)      38   5 10 23  27-58  25       Relegated
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### Copa del Rey  ‹§coparey›
+
+
+Preliminary Round [Nov 13]
+CD Becerril               1-0 Urraca CF
+FC Andorra                3-0 CE Andratx
+Tolosa CF                 1-0 CD Pontellas
+Comillas CF               1-1 CD Barquereño             [aet, 3-2 pen]
+Melilla CD                1-0 AD Lobón                  [aet]
+UD Fraga                  0-1 CD Peña Azagresa
+CA Antoniano              2-0 Atlético Porcuna CF
+CB Ramón y Cajal          1-2 El Palmar CF
+CD El Álamo               2-1 CD Pedroñeras
+CF Intercity              3-0 UD Gran Tarajal
+
+Round 1
+[Dec 11]
+UD Logroñés               2-1 Marino Luanco
+[Dec 17]
+CD Lealtad                0-1 Cádiz CF
+Coruxo FC                 4-5 CD Mirandés               [aet]
+CF Illueca                0-2 RC Deportivo
+L'Hospitalet              2-3 Granada CF                [aet]
+Real Jaén CF              3-1 Deportivo Alavés
+SD Logroñés               0-5 SD Eibar
+Marbella FC               2-1 CD Guijuelo
+UP Langreo                2-3 CD Ebro (Zaragoza)
+CD Castellón              0-2 UD Las Palmas
+CP Cacereño               1-0 AD Alcorcón
+Peña Sport                0-1 CF Fuenlabrada
+Portugalete               1-0 Extremadura UD
+UD Socuéllamos            0-1 Real Zaragoza
+SD Tarazona               0-1 Rayo Vallecano
+Gimnástica Segoviana      0-2 Elche CF
+UM Escobedo               2-0 Málaga CF
+Unionistas de Salamanca   1-0 Atlético Baleares
+Zamora CF                 2-1 Real Sporting
+Hércules CF               0-1 Recreativo Huelva
+AD Ceuta                  1-1 CD Numancia               [aet, 3-2 pen]
+CF Intercity              0-3 Athletic Club (Bilbao)
+FC Andorra                1-1 CD Leganés                [aet, 5-6 pen]
+FC Cartagena              4-1 SD Leioa
+Real Murcia               1-0 Racing Santander
+CD Mensajero              0-3 CD Tenerife
+[Dec 18]
+UD San Sebastián/Reyes    2-0 Córdoba CF
+Bergantiños FC            0-1 Sevilla FC
+CD El Álamo               0-1 RCD Mallorca
+CD Tudelano               0-1 Albacete Balompié
+CF Badalona               3-1 Real Oviedo
+Comillas CF               0-5 Villarreal CF
+El Palmar CF              1-2 Getafe CF
+Tolosa CF                 0-3 Real Valladolid
+UD Melilla                1-2 UCAM Murcia CF
+Sestao River              1-1 CD Lugo                   [aet, 6-5 pen]
+Barakaldo CF              0-0 Villarrubia CF            [aet, 5-3 pen]
+[Dec 19]
+CA Antoniano              0-4 Real Betis
+CD Peña Azagresa          0-2 RC Celta
+Cultural Leonesa          3-0 Las Rozas CF
+Lleida Esportiu           0-2 RCD Espanyol
+Melilla CD                0-5 Levante UD
+Peña Deportiva            0-1 SD Ponferradina           [aet]
+SD Amorebieta             0-1 CD Badajoz
+Rayo Majadahonda          1-0 Racing Club Ferrol
+UE Llagostera             0-1 Haro Deportivo            [aet]
+CD Laredo                 0-1 SD Huesca
+Nàstic (Tarragona)        3-1 UE Olot
+UD Tamaraceite            3-2 UD Almería                [aet]
+UE Cornellà               0-0 Orihuela                  [aet, 4-5 pen]
+CD Becerril               0-8 Real Sociedad
+CF Lorca Deportiva        0-3 CA Osasuna
+Linares                   1-2 Girona FC
+[Jan 8]
+Mérida AD                 2-2 CF La Nucía               [aet, 3-2 pen]
+Pontevedra CF             0-2 UD Ibiza
+
+Round 2
+[Jan 11]
+Haro Deportivo            1-2 CA Osasuna
+Nàstic (Tarragona)        1-3 Real Zaragoza
+UCAM Murcia CF            2-3 CD Mirandés
+Zamora CF                 0-1 RCD Mallorca
+CD Ebro (Zaragoza)        1-0 SD Ponferradina
+Portugalete               0-3 Real Betis
+Real Murcia               0-4 CD Leganés
+Rayo Majadahonda          1-1 CD Tenerife               [aet, 2-4 pen]
+UD Ibiza                  1-1 Albacete Balompié         [aet, 5-3 pen]
+Yeclano Deportivo         1-2 Elche CF
+CD Badajoz                2-1 UD Las Palmas
+CF Badalona               2-0 Getafe CF
+Cultural Leonesa          2-1 SD Huesca
+FC Cartagena              2-4 Girona FC                 [aet]
+Recreativo Huelva         0-0 CF Fuenlabrada            [aet, 5-4 pen]
+Sestao River              0-4 Athletic Club (Bilbao)
+UD Logroñés               1-1 Cádiz CF                  [aet, 4-2 pen]
+Marbella FC               1-1 Real Valladolid           [aet, 1-4 pen]
+Orihuela                  1-2 Villarreal CF             [aet]
+UD Tamaraceite            0-1 Granada CF
+[Jan 12]
+CP Cacereño               1-2 SD Eibar
+UD San Sebastián/Reyes    0-2 RCD Espanyol
+UM Escobedo               0-5 Sevilla FC
+Unionistas de Salamanca   1-1 RC Deportivo              [aet, 8-7 pen]
+AD Ceuta                  0-4 Real Sociedad
+Mérida AD                 1-4 RC Celta
+Real Jaén CF              1-1 Levante UD                [aet, 4-5 pen]
+Barakaldo CF              0-2 Rayo Vallecano
+
+1/16 Finals
+[Jan 21]
+Real Zaragoza             3-1 RCD Mallorca
+Recreativo Huelva         2-3 CA Osasuna                [aet]
+Sevilla FC                3-1 Levante UD
+[Jan 22]
+Elche CF                  1-1 Athletic Club (Bilbao)    [aet, 4-5 pen]
+UD Ibiza                  1-2 FC Barcelona
+CD Tenerife               2-1 Real Valladolid
+CF Badalona               1-3 Granada CF                [aet]
+Girona FC                 0-3 Villarreal CF
+Real Sociedad             2-0 RCD Espanyol
+UD Logroñés               0-1 Valencia CF
+Unionistas de Salamanca   1-3 Real Madrid CF
+[Jan 23]
+CD Ebro (Zaragoza)        0-1 CD Leganés
+CD Mirandés               2-1 RC Celta                  [aet]
+CD Badajoz                3-1 SD Eibar
+Cultural Leonesa          2-1 Atlético Madrid           [aet]
+Rayo Vallecano            2-2 Real Betis                [aet, 4-2 pen]
+
+1/8 Finals
+[Jan 28]
+CD Tenerife               3-3 Athletic Club (Bilbao)    [aet, 2-4 pen]
+[Jan 29]
+Cultural Leonesa          0-0 Valencia CF               [aet, 2-4 pen]
+Rayo Vallecano            0-2 Villarreal CF
+CD Badajoz                2-3 Granada CF                [aet]
+Real Sociedad             3-1 CA Osasuna
+Real Zaragoza             0-4 Real Madrid CF
+[Jan 30]
+FC Barcelona              5-0 CD Leganés
+CD Mirandés               3-1 Sevilla FC
+
+Quarterfinals
+[Feb 4]
+Granada CF                2-1 Valencia CF
+[Feb 5]
+CD Mirandés               4-2 Villarreal CF
+[Feb 6]
+Real Madrid CF            3-4 Real Sociedad
+Athletic Club (Bilbao)    1-0 FC Barcelona
+
+Semifinals
+
+First legs
+[Feb 12]
+Athletic Club (Bilbao)    1-0 Granada CF
+[Feb 13]
+Real Sociedad             2-1 CD Mirandés
+
+Second Legs
+[Mar 4]
+CD Mirandés               0-1 Real Sociedad
+[Mar 5]
+Granada CF                2-1 Athletic Club (Bilbao)
+
+Final [Apr 3, 2021, Estadio La Cartuja, Sevilla]
+Athletic Club (Bilbao)    0-1 Real Sociedad
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### Segunda División (Liga Adelante)  ‹§segunda›
+
+
+Final Table:
+
+ 1.SD Huesca                     42  21  7 14  55-42  70  [R]  Promoted
+ 2.Cádiz CF                      42  19 12 11  50-39  69       Promoted
+--------------------------------------------------------
+ 3.Real Zaragoza                 42  18 11 13  59-53  65       ‹Promotion Playoff, see §2prom›
+ 4.UD Almería                    42  17 13 12  62-43  64       ‹Promotion Playoff, see §2prom›
+ 5.Girona FC                     42  17 12 13  48-43  63  [R]  ‹Promotion Playoff, see §2prom›
+ 6.Elche CF                      42  16 13 13  52-44  61       ‹Promotion Playoff, see §2prom›
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.Rayo Vallecano                42  13 21  8  60-50  60  [R]
+ 8.CF Fuenlabrada                42  15 15 12  47-40  60  [P]
+ 9.UD Las Palmas                 42  14 15 13  49-46  57
+10.AD Alcorcón                   42  13 18 11  52-50  57
+11.CD Mirandés                   42  13 17 12  55-59  56  [P]
+12.CD Tenerife                   42  14 13 15  50-46  55
+13.Sporting de Gijón             42  14 12 16  40-38  54
+14.Málaga CF                     42  11 20 11  35-33  53
+15.Real Oviedo                   42  13 14 15  49-53  53
+16.CD Lugo                       42  12 16 14  43-54  52
+17.Albacete Balompié             42  13 13 16  36-46  52
+18.SD Ponferradina               42  12 15 15  45-50  51  [P]
+--------------------------------------------------------
+19.RC Deportivo (La Coruña)      42  12 15 15  43-60  51       Relegated
+20.CD Numancia (Soria)           42  13 11 18  45-53  50       Relegated
+21.Extremadura UD                42  10 13 19  43-59  43       Relegated
+22.Real Racing de Santander      42   5 18 19  39-56  33  [P]  Relegated
+
+Promoted: FC Cartagena, UD Logroñés, CD Castellón, CE Sabadell
+
+**Promotion Playoff  ‹§2prom›**
+
+Semifinals
+
+First Legs [Aug 13]
+Girona                    1-0 Almería
+Elche                     0-0 Zaragoza
+
+Second Legs [Aug 16]
+Almería                   1-2 Girona
+Zaragoza                  0-1 Elche
+
+Final
+
+First Leg [Aug 20]
+Elche                     0-0 Girona
+
+Second Leg [Aug 23]
+Girona                    0-1 Elche
+
+NB: Elche CF promoted
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2018/19, see page span2019›.
+
+‹2020/21, see page span2021›.
+
+‹list of champions, see page spanchamp›.
+
+‹list of 2nd level champions, see page span2champ›.
+
+‹list of cup winners, see page spancuphist›.
+
+‹list of super cup winners, see page spansupcuphist›.
+
+‹list of league cup winners, see page spanleagcuphist›.
+
+‹list of copa rfef winners, see page spanrfefcuphist›.
+
+‹list of final tables, see page spanhist›.
+
+‹all-time table, see page spanalltime›.
+
+‹list of top scorers, see page spantops›.
+
+‹list of foundation dates, see page spanfound›.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+## About this document  ‹§about›
+
+Prepared and maintained by Karel Stokkermans
+the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Karel Stokkermans
+
+Last updated: 8 Apr 2021
+
+
+**(C) Copyright Karel Stokkermans and RSSSF 2019/21**
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

@@ -1,32 +1,32 @@
-## Primera División (Liga BBVA)
+= Spain Primera DivisiÃ³n 2013/14
 
 Round 1
 [Aug 17]
 Sociedad                  2-0 Getafe
 Valladolid                1-2 Athletic
-Valencia                  1-0 Málaga
+Valencia                  1-0 MÃ¡laga
 [Aug 18]
 Barcelona                 7-0 Levante
 Osasuna                   1-2 Granada
 Madrid                    2-1 Betis
-Sevilla                   1-3 Atlético
+Sevilla                   1-3 AtlÃ©tico
 [Aug 19]
 Celta                     2-2 Espanyol
 Rayo                      3-0 Elche
-Almería                   2-3 Villarreal
+AlmerÃ­a                   2-3 Villarreal
 
 Round 2
 [Aug 23]
 Athletic                  2-0 Osasuna
-Getafe                    2-2 Almería
+Getafe                    2-2 AlmerÃ­a
 [Aug 24]
 Elche                     1-1 Sociedad
 Espanyol                  3-1 Valencia
 Villarreal                2-1 Valladolid
 [Aug 25]
-Atlético                  5-0 Rayo
+AtlÃ©tico                  5-0 Rayo
 Levante                   0-0 Sevilla
-Málaga                    0-1 Barcelona
+MÃ¡laga                    0-1 Barcelona
 Betis                     1-2 Celta
 [Aug 26]
 Granada                   0-1 Madrid
@@ -34,7 +34,7 @@ Granada                   0-1 Madrid
 Round 3
 [Aug 30]
 Rayo                      1-2 Levante
-Almería                   2-2 Elche
+AlmerÃ­a                   2-2 Elche
 [Aug 31]
 Celta                     1-1 Granada
 Osasuna                   0-3 Villarreal
@@ -42,20 +42,20 @@ Valladolid                1-0 Getafe
 [Sep 1]
 Espanyol                  0-0 Betis
 Madrid                    3-1 Athletic
-Sociedad                  1-2 Atlético
-Sevilla                   2-2 Málaga
+Sociedad                  1-2 AtlÃ©tico
+Sevilla                   2-2 MÃ¡laga
 Valencia                  2-3 Barcelona
 
 Round 4
 [Sep 14]
-Atlético                  4-2 Almería
+AtlÃ©tico                  4-2 AlmerÃ­a
 Barcelona                 3-2 Sevilla
 Levante                   0-0 Sociedad
 Villarreal                2-2 Madrid
 [Sep 15]
 Getafe                    2-1 Osasuna
 Granada                   0-1 Espanyol
-Málaga                    5-0 Rayo
+MÃ¡laga                    5-0 Rayo
 Betis                     3-1 Valencia
 [Sep 16]
 Athletic                  3-2 Celta
@@ -66,9 +66,9 @@ Round 5
 Osasuna                   2-1 Elche
 [Sep 21]
 Rayo                      0-4 Barcelona
-Sociedad                  0-0 Málaga
-Valladolid                0-2 Atlético
-Almería                   2-2 Levante
+Sociedad                  0-0 MÃ¡laga
+Valladolid                0-2 AtlÃ©tico
+AlmerÃ­a                   2-2 Levante
 [Sep 22]
 Celta                     0-0 Villarreal
 Betis                     0-0 Granada
@@ -79,10 +79,10 @@ Espanyol                  3-2 Athletic
 
 Round 6
 [Sep 24]
-Atlético                  2-1 Osasuna
+AtlÃ©tico                  2-1 Osasuna
 Barcelona                 4-1 Sociedad
 Levante                   1-1 Valladolid
-Málaga                    2-0 Almería
+MÃ¡laga                    2-0 AlmerÃ­a
 [Sep 25]
 Elche                     1-2 Madrid
 Granada                   0-1 Valencia
@@ -94,11 +94,11 @@ Villarreal                2-1 Espanyol
 
 Round 7
 [Sep 27]
-Valladolid                2-2 Málaga
+Valladolid                2-2 MÃ¡laga
 [Sep 28]
-Madrid                    0-1 Atlético
+Madrid                    0-1 AtlÃ©tico
 Sociedad                  1-1 Sevilla
-Almería                   0-2 Barcelona
+AlmerÃ­a                   0-2 Barcelona
 Valencia                  1-0 Rayo
 [Sep 29]
 Celta                     0-1 Elche
@@ -110,7 +110,7 @@ Granada                   2-0 Athletic
 
 Round 8
 [Oct 4]
-Málaga                    0-1 Osasuna
+MÃ¡laga                    0-1 Osasuna
 Villarreal                3-0 Granada
 [Oct 5]
 Elche                     2-1 Espanyol
@@ -119,21 +119,21 @@ Levante                   2-3 Madrid
 Rayo                      1-0 Sociedad
 [Oct 6]
 Athletic                  1-1 Valencia
-Atlético                  2-1 Celta
+AtlÃ©tico                  2-1 Celta
 Getafe                    3-1 Betis
-Sevilla                   2-1 Almería
+Sevilla                   2-1 AlmerÃ­a
 
 Round 9
 [Oct 19]
 Osasuna                   0-0 Barcelona
-Espanyol                  1-0 Atlético
-Madrid                    2-0 Málaga
+Espanyol                  1-0 AtlÃ©tico
+Madrid                    2-0 MÃ¡laga
 Valencia                  1-2 Sociedad
 [Oct 20]
 Granada                   0-2 Getafe
 Betis                     1-2 Elche
 Valladolid                2-2 Sevilla
-Almería                   0-1 Rayo
+AlmerÃ­a                   0-1 Rayo
 [Oct 21]
 Athletic                  2-0 Villarreal
 Celta                     0-1 Levante
@@ -145,10 +145,10 @@ Rayo                      0-3 Valladolid
 Elche                     0-1 Granada
 Barcelona                 2-1 Madrid
 Levante                   3-0 Espanyol
-Málaga                    0-5 Celta
+MÃ¡laga                    0-5 Celta
 [Oct 27]
-Atlético                  5-0 Betis
-Sociedad                  3-0 Almería
+AtlÃ©tico                  5-0 Betis
+Sociedad                  3-0 AlmerÃ­a
 Sevilla                   2-1 Osasuna
 Villarreal                4-1 Valencia
 [Oct 28]
@@ -157,14 +157,14 @@ Getafe                    0-1 Athletic
 Round 11
 [Oct 29]
 Celta                     0-3 Barcelona
-Espanyol                  0-0 Málaga
+Espanyol                  0-0 MÃ¡laga
 [Oct 30]
 Valladolid                2-2 Sociedad
-Valencia                  1-2 Almería
+Valencia                  1-2 AlmerÃ­a
 Osasuna                   3-1 Rayo
 Madrid                    7-3 Sevilla
 [Oct 31]
-Granada                   1-2 Atlético
+Granada                   1-2 AtlÃ©tico
 Villarreal                0-2 Getafe
 Athletic                  2-2 Elche
 Betis                     0-0 Levante
@@ -176,19 +176,19 @@ Barcelona                 1-0 Espanyol
 Rayo                      2-3 Madrid
 Sociedad                  5-0 Osasuna
 Sevilla                   0-1 Celta
-Almería                   1-0 Valladolid
+AlmerÃ­a                   1-0 Valladolid
 [Nov 3]
-Atlético                  2-0 Athletic
+AtlÃ©tico                  2-0 Athletic
 Getafe                    0-1 Valencia
 Levante                   0-1 Granada
-Málaga                    3-2 Betis
+MÃ¡laga                    3-2 Betis
 [Nov 4]
 Elche                     0-1 Villarreal
 
 Round 13
 [Nov 8]
-Granada                   3-1 Málaga
-Osasuna                   0-1 Almería
+Granada                   3-1 MÃ¡laga
+Osasuna                   0-1 AlmerÃ­a
 [Nov 9]
 Athletic                  2-1 Levante
 Celta                     0-2 Rayo
@@ -198,31 +198,31 @@ Madrid                    5-1 Sociedad
 Espanyol                  1-3 Sevilla
 Betis                     1-4 Barcelona
 Valencia                  2-2 Valladolid
-Villarreal                1-1 Atlético
+Villarreal                1-1 AtlÃ©tico
 
 Round 14
 [Nov 22]
 Valladolid                0-1 Osasuna
 [Nov 23]
-Atlético                  7-0 Getafe
+AtlÃ©tico                  7-0 Getafe
 Barcelona                 4-0 Granada
 Sociedad                  4-3 Celta
-Almería                   0-5 Madrid
+AlmerÃ­a                   0-5 Madrid
 [Nov 24]
 Elche                     2-1 Valencia
 Levante                   0-3 Villarreal
 Rayo                      1-4 Espanyol
 Sevilla                   4-0 Betis
 [Nov 25]
-Málaga                    1-2 Athletic
+MÃ¡laga                    1-2 Athletic
 
 Round 15
 [Nov 29]
 Getafe                    1-0 Levante
-Villarreal                1-1 Málaga
+Villarreal                1-1 MÃ¡laga
 [Nov 30]
-Celta                     3-1 Almería
-Elche                     0-2 Atlético
+Celta                     3-1 AlmerÃ­a
+Elche                     0-2 AtlÃ©tico
 Espanyol                  1-2 Sociedad
 Madrid                    4-0 Valladolid
 [Dec 1]
@@ -236,24 +236,24 @@ Round 16
 Levante                   2-1 Elche
 [Dec 14]
 Barcelona                 2-1 Villarreal
-Málaga                    1-0 Getafe
+MÃ¡laga                    1-0 Getafe
 Osasuna                   2-2 Madrid
 Rayo                      0-2 Granada
 [Dec 15]
-Atlético                  3-0 Valencia
+AtlÃ©tico                  3-0 Valencia
 Sociedad                  5-1 Betis
 Sevilla                   1-1 Athletic
-Almería                   0-0 Espanyol
+AlmerÃ­a                   0-0 Espanyol
 [Dec 16]
 Valladolid                3-0 Celta
 
 Round 17
 [Dec 20]
-Elche                     0-1 Málaga
+Elche                     0-1 MÃ¡laga
 [Dec 21]
-Atlético                  3-2 Levante
+AtlÃ©tico                  3-2 Levante
 Granada                   1-3 Sociedad
-Betis                     0-1 Almería
+Betis                     0-1 AlmerÃ­a
 Villarreal                1-2 Sevilla
 [Dec 22]
 Athletic                  2-1 Rayo
@@ -264,9 +264,9 @@ Valencia                  2-3 Madrid
 
 Round 18
 [Jan 4]
-Málaga                    0-1 Atlético
+MÃ¡laga                    0-1 AtlÃ©tico
 Valladolid                0-0 Betis
-Almería                   3-0 Granada
+AlmerÃ­a                   3-0 Granada
 Valencia                  2-0 Levante
 [Jan 5]
 Barcelona                 4-0 Elche
@@ -281,13 +281,13 @@ Round 19
 [Jan 10]
 Granada                   4-0 Valladolid
 [Jan 11]
-Athletic                  6-1 Almería
-Atlético                  0-0 Barcelona
+Athletic                  6-1 AlmerÃ­a
+AtlÃ©tico                  0-0 Barcelona
 Celta                     2-1 Valencia
 Elche                     1-1 Sevilla
 [Jan 12]
 Getafe                    0-1 Rayo
-Levante                   1-0 Málaga
+Levante                   1-0 MÃ¡laga
 Espanyol                  0-1 Madrid
 Betis                     1-2 Osasuna
 [Jan 13]
@@ -295,17 +295,17 @@ Villarreal                5-1 Sociedad
 
 Round 20
 [Jan 17]
-Málaga                    0-0 Valencia
+MÃ¡laga                    0-0 Valencia
 [Jan 18]
 Elche                     2-0 Rayo
 Granada                   0-0 Osasuna
 Espanyol                  1-0 Celta
 Betis                     0-5 Madrid
 [Jan 19]
-Atlético                  1-1 Sevilla
+AtlÃ©tico                  1-1 Sevilla
 Getafe                    2-2 Sociedad
 Levante                   1-1 Barcelona
-Villarreal                2-0 Almería
+Villarreal                2-0 AlmerÃ­a
 [Jan 20]
 Athletic                  4-2 Valladolid
 
@@ -318,10 +318,10 @@ Valladolid                1-0 Villarreal
 Sevilla                   2-3 Levante
 Valencia                  2-2 Espanyol
 [Jan 26]
-Barcelona                 3-0 Málaga
+Barcelona                 3-0 MÃ¡laga
 Osasuna                   1-5 Athletic
-Rayo                      2-4 Atlético
-Almería                   1-0 Getafe
+Rayo                      2-4 AtlÃ©tico
+AlmerÃ­a                   1-0 Getafe
 [Jan 27]
 Sociedad                  4-0 Elche
 
@@ -332,11 +332,11 @@ Granada                   1-2 Celta
 Barcelona                 2-3 Valencia
 Getafe                    0-0 Valladolid
 Levante                   0-0 Rayo
-Málaga                    3-2 Sevilla
+MÃ¡laga                    3-2 Sevilla
 [Feb 2]
 Athletic                  1-1 Madrid
-Atlético                  4-0 Sociedad
-Elche                     1-0 Almería
+AtlÃ©tico                  4-0 Sociedad
+Elche                     1-0 AlmerÃ­a
 Betis                     2-0 Espanyol
 [Feb 3]
 Villarreal                3-1 Osasuna
@@ -345,9 +345,9 @@ Round 23
 [Feb 7]
 Espanyol                  1-0 Granada
 [Feb 8]
-Rayo                      4-1 Málaga
+Rayo                      4-1 MÃ¡laga
 Madrid                    4-2 Villarreal
-Almería                   2-0 Atlético
+AlmerÃ­a                   2-0 AtlÃ©tico
 Valencia                  5-0 Betis
 [Feb 9]
 Osasuna                   2-0 Getafe
@@ -361,9 +361,9 @@ Round 24
 [Feb 14]
 Elche                     0-0 Osasuna
 [Feb 15]
-Atlético                  3-0 Valladolid
+AtlÃ©tico                  3-0 Valladolid
 Barcelona                 6-0 Rayo
-Levante                   1-0 Almería
+Levante                   1-0 AlmerÃ­a
 Villarreal                0-2 Celta
 [Feb 16]
 Athletic                  1-2 Espanyol
@@ -371,7 +371,7 @@ Getafe                    0-3 Madrid
 Granada                   1-0 Betis
 Sevilla                   0-0 Valencia
 [Feb 17]
-Málaga                    0-1 Sociedad
+MÃ¡laga                    0-1 Sociedad
 
 Round 25
 [Feb 21]
@@ -380,9 +380,9 @@ Valladolid                1-1 Levante
 Celta                     1-1 Getafe
 Madrid                    3-0 Elche
 Sociedad                  3-1 Barcelona
-Almería                   0-0 Málaga
+AlmerÃ­a                   0-0 MÃ¡laga
 [Feb 23]
-Osasuna                   3-0 Atlético
+Osasuna                   3-0 AtlÃ©tico
 Rayo                      0-1 Sevilla
 Betis                     0-2 Athletic
 Valencia                  2-1 Granada
@@ -396,37 +396,37 @@ Athletic                  4-0 Granada
 Elche                     1-0 Celta
 Getafe                    0-0 Espanyol
 Levante                   2-0 Osasuna
-Málaga                    1-1 Valladolid
+MÃ¡laga                    1-1 Valladolid
 [Mar 2]
-Atlético                  2-2 Madrid
-Barcelona                 4-1 Almería
+AtlÃ©tico                  2-2 Madrid
+Barcelona                 4-1 AlmerÃ­a
 Rayo                      1-0 Valencia
 Sevilla                   1-0 Sociedad
 Villarreal                1-1 Betis
 
 Round 27
 [Mar 8]
-Celta                     0-2 Atlético
+Celta                     0-2 AtlÃ©tico
 Granada                   2-0 Villarreal
 Betis                     2-0 Getafe
 Valladolid                1-0 Barcelona
 [Mar 9]
 Espanyol                  3-1 Elche
 Madrid                    3-0 Levante
-Almería                   1-3 Sevilla
+AlmerÃ­a                   1-3 Sevilla
 Valencia                  1-1 Athletic
 [Mar 10]
-Osasuna                   0-2 Málaga
+Osasuna                   0-2 MÃ¡laga
 Sociedad                  2-3 Rayo
 
 Round 28
 [Mar 14]
 Getafe                    3-3 Granada
 [Mar 15]
-Atlético                  1-0 Espanyol
+AtlÃ©tico                  1-0 Espanyol
 Levante                   0-1 Celta
-Málaga                    0-1 Madrid
-Rayo                      3-1 Almería
+MÃ¡laga                    0-1 Madrid
+Rayo                      3-1 AlmerÃ­a
 [Mar 16]
 Elche                     0-0 Betis
 Barcelona                 7-0 Osasuna
@@ -437,7 +437,7 @@ Villarreal                1-1 Athletic
 
 Round 29
 [Mar 21]
-Celta                     0-2 Málaga
+Celta                     0-2 MÃ¡laga
 [Mar 22]
 Athletic                  1-0 Getafe
 Granada                   1-0 Elche
@@ -445,18 +445,18 @@ Espanyol                  0-0 Levante
 Valladolid                1-1 Rayo
 [Mar 23]
 Osasuna                   1-2 Sevilla
-Betis                     0-2 Atlético
+Betis                     0-2 AtlÃ©tico
 Madrid                    3-4 Barcelona
 Valencia                  2-1 Villarreal
 [Mar 24]
-Almería                   4-3 Sociedad
+AlmerÃ­a                   4-3 Sociedad
 
 Round 30
 [Mar 25]
 Elche                     0-0 Athletic
-Málaga                    1-2 Espanyol
+MÃ¡laga                    1-2 Espanyol
 [Mar 26]
-Atlético                  1-0 Granada
+AtlÃ©tico                  1-0 Granada
 Barcelona                 3-0 Celta
 Rayo                      1-0 Osasuna
 Sevilla                   2-1 Madrid
@@ -464,34 +464,34 @@ Sevilla                   2-1 Madrid
 Getafe                    0-1 Villarreal
 Levante                   1-3 Betis
 Sociedad                  1-0 Valladolid
-Almería                   2-2 Valencia
+AlmerÃ­a                   2-2 Valencia
 
 Round 31
 [Mar 29]
-Athletic                  1-2 Atlético
+Athletic                  1-2 AtlÃ©tico
 Celta                     1-0 Sevilla
 Espanyol                  0-1 Barcelona
 Madrid                    5-0 Rayo
 [Mar 30]
 Osasuna                   1-1 Sociedad
-Valladolid                1-0 Almería
+Valladolid                1-0 AlmerÃ­a
 Valencia                  1-3 Getafe
 Villarreal                1-1 Elche
 [Mar 31]
 Granada                   0-2 Levante
-Betis                     1-2 Málaga
+Betis                     1-2 MÃ¡laga
 
 Round 32
 [Apr 4]
-Almería                   1-2 Osasuna
+AlmerÃ­a                   1-2 Osasuna
 [Apr 5]
-Atlético                  1-0 Villarreal
+AtlÃ©tico                  1-0 Villarreal
 Barcelona                 3-1 Betis
 Rayo                      3-0 Celta
 Sociedad                  0-4 Madrid
 [Apr 6]
 Elche                     1-0 Getafe
-Málaga                    4-1 Granada
+MÃ¡laga                    4-1 Granada
 Valladolid                0-0 Valencia
 Sevilla                   4-1 Espanyol
 [Apr 7]
@@ -503,19 +503,19 @@ Osasuna                   0-0 Valladolid
 [Apr 12]
 Celta                     2-2 Sociedad
 Granada                   1-0 Barcelona
-Madrid                    4-0 Almería
+Madrid                    4-0 AlmerÃ­a
 Villarreal                1-0 Levante
 [Apr 13]
-Getafe                    0-2 Atlético
+Getafe                    0-2 AtlÃ©tico
 Espanyol                  2-2 Rayo
 Betis                     0-2 Sevilla
 Valencia                  2-1 Elche
 [Apr 14]
-Athletic                  3-0 Málaga
+Athletic                  3-0 MÃ¡laga
 
 Round 34
 [Apr 18]
-Atlético                  2-0 Elche
+AtlÃ©tico                  2-0 Elche
 [Apr 19]
 Levante                   0-0 Getafe
 Osasuna                   1-1 Valencia
@@ -524,9 +524,9 @@ Sociedad                  2-1 Espanyol
 Barcelona                 2-1 Athletic
 Rayo                      3-1 Betis
 Sevilla                   4-0 Granada
-Almería                   2-4 Celta
+AlmerÃ­a                   2-4 Celta
 [Apr 21]
-Málaga                    2-0 Villarreal
+MÃ¡laga                    2-0 Villarreal
 [May 7]
 Valladolid                1-1 Madrid
 
@@ -534,14 +534,14 @@ Round 35
 [Apr 25]
 Elche                     1-1 Levante
 [Apr 26]
-Getafe                    1-0 Málaga
+Getafe                    1-0 MÃ¡laga
 Granada                   0-3 Rayo
 Betis                     0-1 Sociedad
 Madrid                    4-0 Osasuna
 [Apr 27]
 Athletic                  3-1 Sevilla
-Espanyol                  1-2 Almería
-Valencia                  0-1 Atlético
+Espanyol                  1-2 AlmerÃ­a
+Valencia                  0-1 AtlÃ©tico
 Villarreal                2-3 Barcelona
 [Apr 28]
 Celta                     4-1 Valladolid
@@ -551,14 +551,14 @@ Round 36
 Rayo                      0-3 Athletic
 [May 3]
 Barcelona                 2-2 Getafe
-Málaga                    0-1 Elche
+MÃ¡laga                    0-1 Elche
 Osasuna                   0-2 Celta
 Valladolid                1-0 Espanyol
 [May 4]
-Levante                   2-0 Atlético
+Levante                   2-0 AtlÃ©tico
 Madrid                    2-2 Valencia
 Sevilla                   0-0 Villarreal
-Almería                   3-2 Betis
+AlmerÃ­a                   3-2 Betis
 [May 5]
 Sociedad                  1-1 Granada
 
@@ -568,19 +568,19 @@ Levante                   2-0 Valencia
 Villarreal                4-0 Rayo
 [May 11]
 Athletic                  1-1 Sociedad
-Atlético                  1-1 Málaga
+AtlÃ©tico                  1-1 MÃ¡laga
 Celta                     2-0 Madrid
 Elche                     0-0 Barcelona
 Getafe                    1-0 Sevilla
-Granada                   0-2 Almería
+Granada                   0-2 AlmerÃ­a
 Espanyol                  1-1 Osasuna
 Betis                     4-3 Valladolid
 
 Round 38
 [May 16]
-Málaga                    1-0 Levante
+MÃ¡laga                    1-0 Levante
 [May 17]
-Barcelona                 1-1 Atlético
+Barcelona                 1-1 AtlÃ©tico
 Madrid                    3-1 Espanyol
 Valencia                  2-1 Celta
 [May 18]
@@ -589,5 +589,5 @@ Rayo                      1-2 Getafe
 Sociedad                  1-2 Villarreal
 Valladolid                0-1 Granada
 Sevilla                   3-1 Elche
-Almería                   0-0 Athletic
+AlmerÃ­a                   0-0 Athletic
 

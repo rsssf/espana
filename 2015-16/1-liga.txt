@@ -1,0 +1,577 @@
+= Spain Primera División 2015/16
+
+Round 1
+[Aug 21]
+Málaga                    0-0 Sevilla
+[Aug 22]
+Deportivo                 0-0 Sociedad
+Espanyol                  1-0 Getafe
+Atlético                  1-0 Las Palmas
+Rayo                      0-0 Valencia
+[Aug 23]
+Athletic                  0-1 Barcelona
+Sporting                  0-0 Madrid
+Levante                   1-2 Celta
+Betis                     1-1 Villarreal
+[Aug 24]
+Granada                   1-3 Eibar
+
+Round 2
+[Aug 28]
+Villarreal                3-1 Espanyol
+[Aug 29]
+Sociedad                  0-0 Sporting
+Barcelona                 1-0 Málaga
+Celta                     3-0 Rayo
+Madrid                    5-0 Betis
+[Aug 30]
+Eibar                     2-0 Athletic
+Sevilla                   0-3 Atlético
+Valencia                  1-1 Deportivo
+Getafe                    1-2 Granada
+Las Palmas                0-0 Levante
+
+Round 3
+[Sep 11]
+Levante                   1-1 Sevilla
+[Sep 12]
+Espanyol                  0-6 Madrid
+Sporting                  0-1 Valencia
+Atlético                  1-2 Barcelona
+Betis                     1-0 Sociedad
+[Sep 13]
+Granada                   1-3 Villarreal
+Athletic                  3-1 Getafe
+Celta                     3-3 Las Palmas
+Málaga                    0-0 Eibar
+[Sep 14]
+Rayo                      1-3 Deportivo
+
+Round 4
+[Sep 18]
+Getafe                    1-0 Málaga
+[Sep 19]
+Madrid                    1-0 Granada
+Valencia                  0-0 Betis
+Eibar                     0-2 Atlético
+Sociedad                  2-3 Espanyol
+[Sep 20]
+Sevilla                   1-2 Celta
+Deportivo                 2-3 Sporting
+Villarreal                3-1 Athletic
+Barcelona                 4-1 Levante
+Las Palmas                0-1 Rayo
+
+Round 5
+[Sep 22]
+Atlético                  2-0 Getafe
+Espanyol                  1-0 Valencia
+Granada                   0-3 Sociedad
+[Sep 23]
+Celta                     4-1 Barcelona
+Levante                   2-2 Eibar
+Rayo                      2-1 Sporting
+Athletic                  1-2 Madrid
+Las Palmas                2-0 Sevilla
+Málaga                    0-1 Villarreal
+[Sep 24]
+Betis                     1-2 Deportivo
+
+Round 6
+[Sep 25]
+Valencia                  1-0 Granada
+[Sep 26]
+Barcelona                 2-1 Las Palmas
+Madrid                    0-0 Málaga
+Sevilla                   3-2 Rayo
+Villarreal                1-0 Atlético
+Eibar                     1-1 Celta
+[Sep 27]
+Sporting                  1-2 Betis
+Deportivo                 3-0 Espanyol
+Getafe                    3-0 Levante
+Sociedad                  0-0 Athletic
+
+Round 7
+[Oct 2]
+Celta                     0-0 Getafe
+[Oct 3]
+Sevilla                   2-1 Barcelona
+Granada                   1-1 Deportivo
+Espanyol                  1-2 Sporting
+Las Palmas                0-2 Eibar
+Málaga                    3-1 Sociedad
+[Oct 4]
+Rayo                      0-2 Betis
+Athletic                  3-1 Valencia
+Levante                   1-0 Villarreal
+Atlético                  1-1 Madrid
+
+Round 8
+[Oct 17]
+Madrid                    3-0 Levante
+Eibar                     1-1 Sevilla
+Barcelona                 5-2 Rayo
+Valencia                  3-0 Málaga
+Betis                     1-3 Espanyol
+[Oct 18]
+Villarreal                1-2 Celta
+Sociedad                  0-2 Atlético
+Getafe                    4-0 Las Palmas
+Deportivo                 2-2 Athletic
+[Oct 19]
+Sporting                  3-3 Granada
+
+Round 9
+[Oct 23]
+Rayo                      3-0 Espanyol
+[Oct 24]
+Celta                     1-3 Madrid
+Granada                   1-1 Betis
+Sevilla                   5-0 Getafe
+Málaga                    2-0 Deportivo
+[Oct 25]
+Levante                   0-4 Sociedad
+Las Palmas                0-0 Villarreal
+Barcelona                 3-1 Eibar
+Atlético                  2-1 Valencia
+[Oct 26]
+Athletic                  3-0 Sporting
+
+Round 10
+[Oct 30]
+Deportivo                 1-1 Atlético
+[Oct 31]
+Madrid                    3-1 Las Palmas
+Valencia                  3-0 Levante
+Villarreal                2-1 Sevilla
+Getafe                    0-2 Barcelona
+Sociedad                  2-3 Celta
+[Nov 1]
+Eibar                     1-0 Rayo
+Espanyol                  1-1 Granada
+Sporting                  1-0 Málaga
+Betis                     1-3 Athletic
+
+Round 11
+[Nov 6]
+Las Palmas                2-0 Sociedad
+[Nov 7]
+Celta                     1-5 Valencia
+Levante                   1-1 Deportivo
+Eibar                     3-1 Getafe
+Rayo                      2-1 Granada
+Málaga                    0-1 Betis
+[Nov 8]
+Athletic                  2-1 Espanyol
+Barcelona                 3-0 Villarreal
+Atlético                  1-0 Sporting
+Sevilla                   3-2 Madrid
+
+Round 12
+[Nov 21]
+Sociedad                  2-0 Sevilla
+Madrid                    0-4 Barcelona
+Espanyol                  2-0 Málaga
+Valencia                  1-1 Las Palmas
+Deportivo                 2-0 Celta
+[Nov 22]
+Sporting                  0-3 Levante
+Villarreal                1-1 Eibar
+Granada                   2-0 Athletic
+Betis                     0-1 Atlético
+[Nov 23]
+Getafe                    1-1 Rayo
+
+Round 13
+[Nov 27]
+Levante                   0-1 Betis
+[Nov 28]
+Barcelona                 4-0 Sociedad
+Atlético                  1-0 Espanyol
+Málaga                    2-2 Granada
+Las Palmas                0-2 Deportivo
+Celta                     2-1 Sporting
+[Nov 29]
+Getafe                    2-0 Villarreal
+Eibar                     0-2 Madrid
+Rayo                      0-3 Athletic
+Sevilla                   1-0 Valencia
+
+Round 14
+[Dec 5]
+Madrid                    4-1 Getafe
+Granada                   0-2 Atlético
+Valencia                  1-1 Barcelona
+Deportivo                 1-1 Sevilla
+Betis                     1-1 Celta
+[Dec 6]
+Sociedad                  2-1 Eibar
+Villarreal                2-1 Rayo
+Sporting                  3-1 Las Palmas
+Athletic                  0-0 Málaga
+[Dec 7]
+Espanyol                  1-1 Levante
+
+Round 15
+[Dec 11]
+Getafe                    1-1 Sociedad
+[Dec 12]
+Barcelona                 2-2 Deportivo
+Celta                     1-0 Espanyol
+Levante                   1-2 Granada
+Sevilla                   2-0 Sporting
+Las Palmas                1-0 Betis
+[Dec 13]
+Rayo                      1-2 Málaga
+Eibar                     1-1 Valencia
+Atlético                  2-1 Athletic
+Villarreal                1-0 Madrid
+
+Round 16
+[Dec 19]
+Valencia                  2-2 Getafe
+Espanyol                  1-0 Las Palmas
+Betis                     0-0 Sevilla
+Deportivo                 2-0 Eibar
+[Dec 20]
+Madrid                   10-2 Rayo
+Athletic                  2-0 Levante
+Granada                   0-2 Celta
+Sociedad                  0-2 Villarreal
+Málaga                    1-0 Atlético
+[Feb 17]
+Sporting                  1-3 Barcelona
+
+Round 17
+[Dec 30]
+Levante                   0-1 Málaga
+Madrid                    3-1 Sociedad
+Rayo                      0-2 Atlético
+Sevilla                   2-0 Espanyol
+Eibar                     2-0 Sporting
+Celta                     0-1 Athletic
+Barcelona                 4-0 Betis
+Getafe                    0-0 Deportivo
+Las Palmas                4-1 Granada
+[Dec 31]
+Villarreal                1-0 Valencia
+
+Round 18
+[Jan 2]
+Espanyol                  0-0 Barcelona
+Atlético                  1-0 Levante
+Málaga                    2-0 Celta
+[Jan 3]
+Rayo                      2-2 Sociedad
+Granada                   2-1 Sevilla
+Betis                     0-4 Eibar
+Athletic                  2-2 Las Palmas
+Deportivo                 1-2 Villarreal
+Valencia                  2-2 Madrid
+[Jan 4]
+Sporting                  1-2 Getafe
+
+Round 19
+[Jan 9]
+Barcelona                 4-0 Granada
+Getafe                    1-0 Betis
+Sevilla                   2-0 Athletic
+Madrid                    5-0 Deportivo
+Levante                   2-1 Rayo
+[Jan 10]
+Villarreal                2-0 Sporting
+Sociedad                  2-0 Valencia
+Eibar                     2-1 Espanyol
+Las Palmas                1-1 Málaga
+Celta                     0-2 Atlético
+
+Round 20
+[Jan 16]
+Sevilla                   2-1 Málaga
+Celta                     4-3 Levante
+Villarreal                0-0 Betis
+Sociedad                  1-1 Deportivo
+[Jan 17]
+Valencia                  2-2 Rayo
+Madrid                    5-1 Sporting
+Getafe                    3-1 Espanyol
+Las Palmas                0-3 Atlético
+Barcelona                 6-0 Athletic
+[Jan 18]
+Eibar                     5-1 Granada
+
+Round 21
+[Jan 22]
+Sporting                  5-1 Sociedad
+[Jan 23]
+Málaga                    1-2 Barcelona
+Espanyol                  2-2 Villarreal
+Granada                   3-2 Getafe
+Rayo                      3-0 Celta
+[Jan 24]
+Athletic                  5-2 Eibar
+Atlético                  0-0 Sevilla
+Deportivo                 1-1 Valencia
+Betis                     1-1 Madrid
+[Jan 25]
+Levante                   3-2 Las Palmas
+
+Round 22
+[Jan 30]
+Barcelona                 2-1 Atlético
+Eibar                     1-2 Málaga
+Getafe                    0-1 Athletic
+Villarreal                1-0 Granada
+Sociedad                  2-1 Betis
+[Jan 31]
+Sevilla                   3-1 Levante
+Valencia                  0-1 Sporting
+Las Palmas                2-1 Celta
+Madrid                    6-0 Espanyol
+[Feb 1]
+Deportivo                 2-2 Rayo
+
+Round 23
+[Feb 5]
+Málaga                    3-0 Getafe
+[Feb 6]
+Atlético                  3-1 Eibar
+Rayo                      2-0 Las Palmas
+Athletic                  0-0 Villarreal
+Sporting                  1-1 Deportivo
+[Feb 7]
+Levante                   0-2 Barcelona
+Betis                     1-0 Valencia
+Celta                     1-1 Sevilla
+Granada                   1-2 Madrid
+[Feb 8]
+Espanyol                  0-5 Sociedad
+
+Round 24
+[Feb 12]
+Sporting                  2-2 Rayo
+[Feb 13]
+Madrid                    4-2 Athletic
+Villarreal                1-0 Málaga
+Valencia                  2-1 Espanyol
+Deportivo                 2-2 Betis
+[Feb 14]
+Sociedad                  3-0 Granada
+Sevilla                   2-0 Las Palmas
+Eibar                     2-0 Levante
+Getafe                    0-1 Atlético
+Barcelona                 6-1 Celta
+
+Round 25
+[Feb 19]
+Levante                   3-0 Getafe
+[Feb 20]
+Las Palmas                1-2 Barcelona
+Espanyol                  1-0 Deportivo
+Betis                     1-1 Sporting
+Celta                     3-2 Eibar
+[Feb 21]
+Rayo                      2-2 Sevilla
+Málaga                    1-1 Madrid
+Athletic                  0-1 Sociedad
+Granada                   1-2 Valencia
+Atlético                  0-0 Villarreal
+
+Round 26
+[Feb 26]
+Eibar                     0-1 Las Palmas
+[Feb 27]
+Madrid                    0-1 Atlético
+Getafe                    0-1 Celta
+Sporting                  2-4 Espanyol
+Betis                     2-2 Rayo
+Sociedad                  1-1 Málaga
+[Feb 28]
+Villarreal                3-0 Levante
+Valencia                  0-3 Athletic
+Deportivo                 0-1 Granada
+Barcelona                 2-1 Sevilla
+
+Round 27
+[Mar 1]
+Atlético                  3-0 Sociedad
+Las Palmas                4-0 Getafe
+[Mar 2]
+Athletic                  4-1 Deportivo
+Celta                     0-0 Villarreal
+Málaga                    1-2 Valencia
+Sevilla                   1-0 Eibar
+Levante                   1-3 Madrid
+[Mar 3]
+Granada                   2-0 Sporting
+Espanyol                  0-3 Betis
+Rayo                      1-5 Barcelona
+
+Round 28
+[Mar 5]
+Madrid                    7-1 Celta
+Villarreal                0-1 Las Palmas
+Getafe                    1-1 Sevilla
+Deportivo                 3-3 Málaga
+[Mar 6]
+Betis                     2-0 Granada
+Eibar                     0-4 Barcelona
+Sociedad                  1-1 Levante
+Sporting                  0-2 Athletic
+Valencia                  1-3 Atlético
+[Mar 7]
+Espanyol                  2-1 Rayo
+
+Round 29
+[Mar 11]
+Málaga                    1-0 Sporting
+[Mar 12]
+Barcelona                 6-0 Getafe
+Celta                     1-0 Sociedad
+Atlético                  3-0 Deportivo
+Rayo                      1-1 Eibar
+[Mar 13]
+Levante                   1-0 Valencia
+Sevilla                   4-2 Villarreal
+Athletic                  3-1 Betis
+Las Palmas                1-2 Madrid
+[Mar 14]
+Granada                   1-1 Espanyol
+
+Round 30
+[Mar 18]
+Getafe                    1-1 Eibar
+[Mar 19]
+Sporting                  2-1 Atlético
+Granada                   2-2 Rayo
+Sociedad                  0-1 Las Palmas
+Deportivo                 2-1 Levante
+Betis                     0-1 Málaga
+[Mar 20]
+Espanyol                  2-1 Athletic
+Villarreal                2-2 Barcelona
+Valencia                  0-2 Celta
+Madrid                    4-0 Sevilla
+
+Round 31
+[Apr 1]
+Rayo                      2-0 Getafe
+[Apr 2]
+Atlético                  5-1 Betis
+Las Palmas                2-1 Valencia
+Barcelona                 1-2 Madrid
+Celta                     1-1 Deportivo
+[Apr 3]
+Athletic                  1-1 Granada
+Málaga                    1-1 Espanyol
+Eibar                     1-2 Villarreal
+Sevilla                   1-2 Sociedad
+[Apr 4]
+Levante                   0-0 Sporting
+
+Round 32
+[Apr 8]
+Granada                   0-0 Málaga
+[Apr 9]
+Madrid                    4-0 Eibar
+Espanyol                  1-3 Atlético
+Sociedad                  1-0 Barcelona
+Betis                     1-0 Levante
+[Apr 10]
+Sporting                  0-1 Celta
+Valencia                  2-1 Sevilla
+Villarreal                2-0 Getafe
+Athletic                  1-0 Rayo
+[Apr 11]
+Deportivo                 1-3 Las Palmas
+
+Round 33
+[Apr 15]
+Levante                   2-1 Espanyol
+[Apr 16]
+Getafe                    1-5 Madrid
+Las Palmas                1-1 Sporting
+Eibar                     2-1 Sociedad
+Celta                     1-1 Betis
+[Apr 17]
+Málaga                    0-1 Athletic
+Sevilla                   1-1 Deportivo
+Atlético                  3-0 Granada
+Rayo                      2-1 Villarreal
+Barcelona                 1-2 Valencia
+
+Round 34
+[Apr 19]
+Espanyol                  1-1 Celta
+Betis                     1-0 Las Palmas
+[Apr 20]
+Deportivo                 0-8 Barcelona
+Athletic                  0-1 Atlético
+Málaga                    1-1 Rayo
+Sporting                  2-1 Sevilla
+Valencia                  4-0 Eibar
+Madrid                    3-0 Villarreal
+[Apr 21]
+Sociedad                  1-2 Getafe
+Granada                   5-1 Levante
+
+Round 35
+[Apr 22]
+Las Palmas                4-0 Espanyol
+[Apr 23]
+Rayo                      2-3 Madrid
+Atlético                  1-0 Málaga
+Barcelona                 6-0 Sporting
+Eibar                     1-1 Deportivo
+[Apr 24]
+Levante                   2-2 Athletic
+Sevilla                   2-0 Betis
+Getafe                    2-2 Valencia
+Villarreal                0-0 Sociedad
+[Apr 25]
+Celta                     2-1 Granada
+
+Round 36
+[Apr 29]
+Sporting                  2-0 Eibar
+[Apr 30]
+Sociedad                  0-1 Madrid
+Atlético                  1-0 Rayo
+Betis                     0-2 Barcelona
+Granada                   3-2 Las Palmas
+[May 1]
+Athletic                  2-1 Celta
+Espanyol                  1-0 Sevilla
+Deportivo                 0-2 Getafe
+Valencia                  0-2 Villarreal
+[May 2]
+Málaga                    3-1 Levante
+
+Round 37 [May 8]
+Celta                     1-0 Málaga
+Eibar                     1-1 Betis
+Barcelona                 5-0 Espanyol
+Getafe                    1-1 Sporting
+Las Palmas                0-0 Athletic
+Levante                   2-1 Atlético
+Madrid                    3-2 Valencia
+Sociedad                  2-1 Rayo
+Sevilla                   1-4 Granada
+Villarreal                0-2 Deportivo
+
+Round 38
+[May 13]
+Valencia                  0-1 Sociedad
+[May 14]
+Deportivo                 0-2 Madrid
+Granada                   0-3 Barcelona
+Athletic                  3-1 Sevilla
+Atlético                  2-0 Celta
+[May 15]
+Málaga                    4-1 Las Palmas
+Espanyol                  4-2 Eibar
+Rayo                      3-1 Levante
+Betis                     2-1 Getafe
+Sporting                  2-0 Villarreal
+

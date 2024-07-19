@@ -1,65 +1,65 @@
-## Copa del Rey
+= Spain Copa del Rey 2012/13
 
 Round 1
 [Aug 29]
 SD Noja                   3-2 SD Amorebieta             [aet]
 CE L'Hospitalet           1-0 Orihuela CF
-AE Prat                   2-1 Gimn‡stic de Tarragona
+AE Prat                   2-1 Gimn√†stic de Tarragona
 Caudal Deportivo (Mieres) 2-0 CD Marino Tenerife-Sur
-Albacete BalompiÈ         4-0 Loja CD
-Catarroja CF              0-2 Deportivo AlavÈs
-CD Alcoyano               2-0 CD AtlÈtico Baleares
+Albacete Balompi√©         4-0 Loja CD
+Catarroja CF              0-2 Deportivo Alav√©s
+CD Alcoyano               2-0 CD Atl√©tico Baleares
 CD Laudio (Llodio)        0-1 SD Eibar
-SD Ejea                   4-2 PeÒa Sport FC (Tafalla)   [aet]
-SD LogroÒÈs               2-1 UD LogroÒÈs
+SD Ejea                   4-2 Pe√±a Sport FC (Tafalla)   [aet]
+SD Logro√±√©s               2-1 UD Logro√±√©s
 UE Llagostera             1-0 CF Badalona
 Arroyo CP                 2-1 La Roda CF                [aet]
-C·diz CF                  3-2 CD San Roque de Lepe
-CD Ourense                2-1 Real ¡vila CF
-CP Villarrobledo          1-3 CP CacereÒo
+C√°diz CF                  3-2 CD San Roque de Lepe
+CD Ourense                2-1 Real √Åvila CF
+CP Villarrobledo          1-3 CP Cacere√±o
 CD Constancia (Inca)      3-0 Yeclano CF
 [Aug 30]
 Real Oviedo               2-0 CF Fuenlabrada
-AtlÈtico SanluqueÒo CF    1-0 FC Cartagena
+Atl√©tico Sanluque√±o CF    1-0 FC Cartagena
 
 Round 2
 [Sep 11]
-CE Sabadell               2-0 HÈrcules de Alicante CF
-AD AlcorcÛn               4-1 CD Numancia
-CD MirandÈs               2-0 RC Recreativo de Huelva
-UD AlmerÌa                2-0 Real Murcia CF
+CE Sabadell               2-0 H√©rcules de Alicante CF
+AD Alcorc√≥n               4-1 CD Numancia
+CD Mirand√©s               2-0 RC Recreativo de Huelva
+UD Almer√≠a                2-0 Real Murcia CF
 [Sep 12]
-Hurac·n Valencia CF       1-1 Albacete BalompiÈ         [aet, 4-2 pen]
+Hurac√°n Valencia CF       1-1 Albacete Balompi√©         [aet, 4-2 pen]
 CE L'Hospitalet           1-1 SD Noja                   [aet, 3-4 pen]
-Deportivo AlavÈs          2-1 AtlÈtico SanluqueÒo CF
-CÛrdoba CF                1-0 Elche CF                  [aet]
+Deportivo Alav√©s          2-1 Atl√©tico Sanluque√±o CF
+C√≥rdoba CF                1-0 Elche CF                  [aet]
 UE Llagostera             1-0 SD Ejea
 CD Constancia (Inca)      1-1 CD Ourense                [aet, 3-1 pen]
 UE Lleida                 0-2 SD Eibar
 Real Oviedo               0-0 AE Prat                   [aet, 4-5 pen]
 CD Alcoyano               1-0 CD Tenerife
-Real BalompÈdica Linense  2-2 UD Melilla                [aet, 5-6 pen]
+Real Balomp√©dica Linense  2-2 UD Melilla                [aet, 5-6 pen]
 CD Lugo                   0-1 Real Racing de Santander
-Lucena CF                 4-1 SD LogroÒÈs
+Lucena CF                 4-1 SD Logro√±√©s
 SD Huesca                 2-1 CD Guadalajara
-Real Sporting de GijÛn    2-0 Girona FC
+Real Sporting de Gij√≥n    2-0 Girona FC
 Xerez CD                  0-1 UD Las Palmas
-C·diz CF                  1-2 Arroyo CP
-Real JaÈn CF              2-0 Caudal Deportivo (Mieres)
+C√°diz CF                  1-2 Arroyo CP
+Real Ja√©n CF              2-0 Caudal Deportivo (Mieres)
 Villarreal CF             0-2 SD Ponferradina
 
 Round 3
 [Oct 17]
-SD Noja                   0-1 Real JaÈn CF
+SD Noja                   0-1 Real Ja√©n CF
 SD Eibar                  1-0 Arroyo CP                 [aet]
-Hurac·n Valencia CF       1-2 Deportivo AlavÈs          [aet]
+Hurac√°n Valencia CF       1-2 Deportivo Alav√©s          [aet]
 CD Constancia (Inca)      1-1 UD Melilla                [aet, 7-8 pen]
 AE Prat                   2-3 UE Llagostera             [aet]
-CE Sabadell               0-1 CÛrdoba CF                [aet]
-Lucena CF                 1-3 CP CacereÒo
+CE Sabadell               0-1 C√≥rdoba CF                [aet]
+Lucena CF                 1-3 CP Cacere√±o
 SD Huesca                 1-1 SD Ponferradina           [aet, 3-4 pen]
-Real Sporting de GijÛn    2-1 CD MirandÈs
-UD AlmerÌa                3-0 AD AlcorcÛn
+Real Sporting de Gij√≥n    2-1 CD Mirand√©s
+UD Almer√≠a                3-0 AD Alcorc√≥n
 [Oct 18]
 UD Las Palmas             4-2 Real Racing de Santander  [aet]
 
@@ -67,43 +67,43 @@ Round 4
 First Legs
 [Oct 30]
 UE Llagostera             0-2 Valencia CF
-Deportivo AlavÈs          0-3 FC Barcelona
+Deportivo Alav√©s          0-3 FC Barcelona
 [Oct 31]
-CP CacereÒo               3-4 M·laga CF
-Real JaÈn CF              0-3 AtlÈtico de Madrid
+CP Cacere√±o               3-4 M√°laga CF
+Real Ja√©n CF              0-3 Atl√©tico de Madrid
 Real Zaragoza             1-0 Granada CF
-UD AlmerÌa                2-0 RC Celta de Vigo
+UD Almer√≠a                2-0 RC Celta de Vigo
 UD Las Palmas             1-0 Rayo Vallecano
 CD Alcoyano               1-4 Real Madrid CF
 [Nov 1]
 SD Eibar                  0-0 Athletic Club (Bilbao)
-Real Valladolid CF        1-0 Real Betis BalompiÈ
+Real Valladolid CF        1-0 Real Betis Balompi√©
 UD Melilla                1-0 Levante UD
-CÛrdoba CF                2-0 Real Sociedad
+C√≥rdoba CF                2-0 Real Sociedad
 SD Ponferradina           0-4 Getafe CF
 Sevilla FC                3-1 RCD Espanyol
-Real Sporting de GijÛn    1-0 CA Osasuna
-RC Deportivo La CoruÒa    1-1 RCD Mallorca
+Real Sporting de Gij√≥n    1-0 CA Osasuna
+RC Deportivo La Coru√±a    1-1 RCD Mallorca
 
 Second Legs
 [Nov 27]
-CA Osasuna                2-0 Real Sporting de GijÛn
+CA Osasuna                2-0 Real Sporting de Gij√≥n
 Rayo Vallecano            0-0 UD Las Palmas
-Real Betis BalompiÈ       3-0 Real Valladolid CF
-Real Sociedad             2-2 CÛrdoba CF
-M·laga CF                 0-1 CP CacereÒo
+Real Betis Balompi√©       3-0 Real Valladolid CF
+Real Sociedad             2-2 C√≥rdoba CF
+M√°laga CF                 0-1 CP Cacere√±o
 Real Madrid CF            3-0 CD Alcoyano
 [Nov 28]
-AtlÈtico de Madrid        1-0 Real JaÈn CF
+Atl√©tico de Madrid        1-0 Real Ja√©n CF
 Getafe CF                 0-0 SD Ponferradina
 Levante UD                4-1 UD Melilla
 Valencia CF               3-1 UE Llagostera
-FC Barcelona              3-1 Deportivo AlavÈs
+FC Barcelona              3-1 Deportivo Alav√©s
 RCD Espanyol              0-3 Sevilla FC
 [Nov 29]
-RC Celta de Vigo          3-0 UD AlmerÌa                [aet]
+RC Celta de Vigo          3-0 UD Almer√≠a                [aet]
 Granada CF                2-1 Real Zaragoza
-RCD Mallorca              0-0 RC Deportivo La CoruÒa
+RCD Mallorca              0-0 RC Deportivo La Coru√±a
 [Dec 12]
 Athletic Club (Bilbao)    1-1 SD Eibar
 
@@ -112,28 +112,28 @@ First Legs
 [Dec 11]
 CA Osasuna                0-2 Valencia CF
 [Dec 12]
-CÛrdoba CF                0-2 FC Barcelona
+C√≥rdoba CF                0-2 FC Barcelona
 RCD Mallorca              0-5 Sevilla FC
-AtlÈtico de Madrid        3-0 Getafe CF
+Atl√©tico de Madrid        3-0 Getafe CF
 RC Celta de Vigo          2-1 Real Madrid CF
 [Dec 13]
 Levante UD                0-1 Real Zaragoza
-UD Las Palmas             1-1 Real Betis BalompiÈ
+UD Las Palmas             1-1 Real Betis Balompi√©
 [Dec 18]
-SD Eibar                  1-1 M·laga CF
+SD Eibar                  1-1 M√°laga CF
 
 Second Legs
 [Jan 8]
-M·laga CF                 4-1 SD Eibar
+M√°laga CF                 4-1 SD Eibar
 Valencia CF               2-1 CA Osasuna
 [Jan 9]
 Sevilla FC                1-2 RCD Mallorca
 Real Madrid CF            4-0 RC Celta de Vigo
 Real Zaragoza             2-0 Levante UD
 [Jan 10]
-Getafe CF                 0-0 AtlÈtico de Madrid
-FC Barcelona              5-0 CÛrdoba CF
-Real Betis BalompiÈ       1-0 UD Las Palmas
+Getafe CF                 0-0 Atl√©tico de Madrid
+FC Barcelona              5-0 C√≥rdoba CF
+Real Betis Balompi√©       1-0 UD Las Palmas
 
 Quarterfinals
 First Legs
@@ -141,31 +141,31 @@ First Legs
 Real Madrid CF            2-0 Valencia CF
 [Jan 16]
 Real Zaragoza             0-0 Sevilla FC
-FC Barcelona              2-2 M·laga CF
+FC Barcelona              2-2 M√°laga CF
 [Jan 17]
-AtlÈtico de Madrid        2-0 Real Betis BalompiÈ
+Atl√©tico de Madrid        2-0 Real Betis Balompi√©
 
 Second Legs
 [Jan 23]
 Sevilla FC                4-0 Real Zaragoza
 Valencia CF               1-1 Real Madrid CF
 [Jan 24]
-Real Betis BalompiÈ       1-1 AtlÈtico de Madrid
-M·laga CF                 2-4 FC Barcelona
+Real Betis Balompi√©       1-1 Atl√©tico de Madrid
+M√°laga CF                 2-4 FC Barcelona
 
 Semifinals
 First Legs
 [Jan 30]
 Real Madrid CF            1-1 FC Barcelona
 [Jan 31]
-AtlÈtico de Madrid        2-1 Sevilla FC
+Atl√©tico de Madrid        2-1 Sevilla FC
 
 Second Legs
 [Feb 26]
 FC Barcelona              1-3 Real Madrid CF
 [Feb 27]
-Sevilla FC                2-2 AtlÈtico de Madrid
+Sevilla FC                2-2 Atl√©tico de Madrid
 
 Final [May 17, Madrid]
-Real Madrid CF            1-2 AtlÈtico de Madrid        [aet]
+Real Madrid CF            1-2 Atl√©tico de Madrid        [aet]
 
