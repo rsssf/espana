@@ -16,11 +16,11 @@ España (Spain)
 | 2012-13 | [cup.txt](2012-13/cup.txt) |  OK  |
 | 2011-12 | [1-liga.txt](2011-12/1-liga.txt) |  **!! 1**  |
 | 2011-12 | [cup.txt](2011-12/cup.txt) |  OK  |
-| 2010-11 | [1-liga.txt](2010-11/1-liga.txt) |  **!! 6**  |
-| 2010-11 | [cup.txt](2010-11/cup.txt) |  **!! 31**  |
+| 2010-11 | [1-liga.txt](2010-11/1-liga.txt) |  **!! 4**  |
+| 2010-11 | [cup.txt](2010-11/cup.txt) |  **!! 30**  |
 
 
-41 errors in 12 datafile(s)
+38 errors in 12 datafile(s)
 
 ```
 2015-16/cup.txt -- parse error (INSIDE_RE) - skipping >0-< @28,29
@@ -34,12 +34,8 @@ España (Spain)
      in line >[Walter Pandiani 72; Sergio González79]<
 2010-11/1-liga.txt -- parse error (INSIDE_RE) - skipping >Aduriz10< @15,16
      in line >[Aritz Aduriz10, Vicente Rodríguez 90+; Igor Gabilondo 90+]<
-2010-11/1-liga.txt -- parse error (INSIDE_RE) - skipping >"Rossi”< @44,45
-     in line >[Diego Castro 68pen; Giuseppe Scurto "Rossi” 90+]<
 2010-11/1-liga.txt -- parse error (INSIDE_RE) - skipping >Fernández70< @36,39
      in line >["Manu" Manuel del Moral Fernández70pen; Lionel Messi 22,<
-2010-11/1-liga.txt -- parse error (INSIDE_RE) - skipping >"Xavi”< @6,7
-     in line >"Xavi” Xavier Hernández 29, David Villa 75, 83]<
 2010-11/1-liga.txt -- parse error (INSIDE_RE) - skipping >0-< @28,29
      in line >Deportivo                 0-1 Atlético<
 2010-11/cup.txt -- parse error (INSIDE_RE) - skipping >"< @31,32
@@ -52,8 +48,6 @@ España (Spain)
      in line >Benidorm                  0-0 Orihuela                  [aet. 3-5 pen]<
 2010-11/cup.txt -- parse error (RE) - skipping >0–< @28,40
      in line >Albacete                  0–2 CD Granada<
-2010-11/cup.txt -- parse error (INSIDE_RE) - skipping >"Chando”< @47,48
-     in line >Xabi Alonso 89; Alejandro Torres Román "Chando” 81pen]<
 2010-11/cup.txt -- parse error (INSIDE_RE) - skipping >Madrid:< @8,9
      in line >[Madrid: Iker Casillas; Alvaro Arbeloa, Sergio Ramos, Ricardo Carvalho<
 2010-11/cup.txt -- parse error (INSIDE_RE) - skipping >(< @1,15

@@ -232,7 +232,7 @@ Athletic                  3-0 Getafe
 Deportivo                 3-0 Espanyol
   [Adrián López 28, Alberto Lopo 76, Diego Colotto 87]
 Sporting                  1-1 Villarreal
-  [Diego Castro 68pen; Giuseppe Scurto "Rossi” 90+]
+  [Diego Castro 68pen; Giuseppe Scurto "Rossi" 90+]
 Atlético                  1-1 Almería
   [Sergio Agüero 33; Pablo Piatti 45]
 Racing                    4-1 Osasuna
@@ -427,7 +427,7 @@ Villarreal                3-1 Mallorca
    "Nilmar" Honorato da Silva 51; Jonathan De Guzmán 27]
 Espanyol                  1-5 Barcelona
   [Pablo Osvaldo 62; Pedro Rodríguez 18, 59,
-   "Xavi” Xavier Hernández 29, David Villa 75, 83]
+   "Xavi" Xavier Hernández 29, David Villa 75, 83]
 Sociedad                  1-2 Valencia
   [Xabi Prieto 23pen;Tino Costa 45, Aritz Aduriz 90+]
 [Dec 19]

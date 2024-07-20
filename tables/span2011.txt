@@ -272,7 +272,7 @@ Athletic                  3-0 Getafe
 Deportivo                 3-0 Espanyol
   [Adrián López 28, Alberto Lopo 76, Diego Colotto 87]
 Sporting                  1-1 Villarreal
-  [Diego Castro 68pen; Giuseppe Scurto "Rossi” 90+]
+  [Diego Castro 68pen; Giuseppe Scurto "Rossi" 90+]
 Atlético                  1-1 Almería
   [Sergio Agüero 33; Pablo Piatti 45]
 Racing                    4-1 Osasuna
@@ -467,7 +467,7 @@ Villarreal                3-1 Mallorca
    "Nilmar" Honorato da Silva 51; Jonathan De Guzmán 27]
 Espanyol                  1-5 Barcelona
   [Pablo Osvaldo 62; Pedro Rodríguez 18, 59,
-   "Xavi” Xavier Hernández 29, David Villa 75, 83]
+   "Xavi" Xavier Hernández 29, David Villa 75, 83]
 Sociedad                  1-2 Valencia
   [Xabi Prieto 23pen;Tino Costa 45, Aritz Aduriz 90+]
 [Dec 19]
@@ -1288,7 +1288,7 @@ Second Legs
 Madrid                    5-1 Murcia
   [Esteban Granero 3, Gonzalo Higuaín 44,
    "Cristiano Ronaldo" Santos Aveiro 75, Karim Benzema 84pen,
-   Xabi Alonso 89; Alejandro Torres Román "Chando” 81pen]
+   Xabi Alonso 89; Alejandro Torres Román "Chando" 81pen]
 Barcelona                 5-1 Ceuta
   ["Nolito" Manuel Agudo Durán 2, Gabriel Milito 7, Pedro Rodríguez 50,
    Bojan Krkic 65, Lionel Messi 64; Casaseca Guzmán 35]
@@ -1734,7 +1734,7 @@ Barcelona B               0-1 Huesca
   ["Gilvan" Gomes Vieira 73]
 Las Palmas                2-1 Albacete
   [Pedro Vega 44, Antonio Guayre 64;
-   "Asen” Jaime Asensio de la Fuente 85]
+   "Asen" Jaime Asensio de la Fuente 85]
 [Oct 24]
 Salamanca                 0-3 Betis
   [Rubén Castro 23, Achille Emaná 23, 86]
@@ -4490,7 +4490,7 @@ Caudal                    3-0 Athletic B
 Zamora                    3-1 La Muela
   [David Ferreiro 5, Kabiru Akinsola 39, Iker Torre 48; Manuel Bindang 88]
 Cultural                  2-2 Alavés
-  [Albert Yagüe 18, Santiago "Santi” Santos 77; "Josete" José Malagón 22,
+  [Albert Yagüe 18, Santiago "Santi" Santos 77; "Josete" José Malagón 22,
    "Jito" Juan Silvestre 58]
 Guijuelo                  4-1 Lemona
   [Iturralde Narvaiz 28, José Gascón 34, Juan Torres 35,
