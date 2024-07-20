@@ -1,7 +1,7 @@
-<!--
-   source: https://rsssf.org/tabless/span2023.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tabless/span2023.html
+    -->
+  
 
 
 ## Spain 2022/23
@@ -847,7 +847,7 @@ Eldense                   3-3 Castilla                  [aet]
 
 NB: AD Alcorcón and CD Eldense (on better placing regular season) promoted
 
-Promoted from 4th level: Antequera CF, CD Arenteiro (O Carballi&ntilde;o), Atlético de Madrid B,
+Promoted from 4th level: Antequera CF, CD Arenteiro (O Carballiño), Atlético de Madrid B,
                          Atlético Sanluqueño CF (Sanlúcar de Barrameda), CR Granada, UD Melilla,
                          Real Club Recreativo de Huelva, Sestao River Club, SD Tarazona, CD Teruel
 

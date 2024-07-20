@@ -1,7 +1,7 @@
-<!--
-   source: https://rsssf.org/tabless/span2018.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tabless/span2018.html
+    -->
+  
 
 
 ## Spain 2017/18
@@ -669,7 +669,7 @@ Peña Sport FC             1-2 CD Mirandés
 Gimnástica Segoviana CF   2-0 Pontevedra CF
 Gimnástica de Torrelavega 0-3 Cultural Durango
 SD Leioa (Lejona)         2-1 Real Racing de Santander
-CD Olímpic de X&agrave;tiva      1-1 UE Olot                   [aet, 4-5 pen]
+CD Olímpic de Xàtiva      1-1 UE Olot                   [aet, 4-5 pen]
 Lleida Esportiu           1-0 UD Melilla
 Real Murcia CF            3-1 CP Cacereño
 SD Ponferradina           2-0 Rápido de Bouzas
@@ -687,7 +687,7 @@ SD Formentera             1-1 SD Tarazona               [aet, 5-4 pen]
 Round 2
 [Sep 5]
 Cádiz CF                  1-0 UD Almería
-Gimn&agrave;stic de Tarragona    1-1 CD Lugo                   [aet, 1-3 pen]
+Gimnàstic de Tarragona    1-1 CD Lugo                   [aet, 1-3 pen]
 [Sep 6]
 UE Olot                   1-0 CD Alcoyano               [aet]
 CF Reus                   0-1 Real Sporting de Gijón
@@ -859,7 +859,7 @@ Final Table:
 12.CD Lugo                       42  15 10 17  39-48  55
 13.AD Alcorcón                   42  12 16 14  37-42  52
 14.CF Reus                       42  12 16 14  31-42  52
-15.Club Gimn&agrave;stic de Tarragona   42  15  7 20  44-50  52
+15.Club Gimnàstic de Tarragona   42  15  7 20  44-50  52
 16.Córdoba CF                    42  15  6 21  57-65  51
 17.Albacete Balompié             42  11 16 15  35-46  49  [P]
 18.UD Almería                    42  12 12 18  38-45  48
