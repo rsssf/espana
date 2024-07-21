@@ -18,6 +18,6 @@ football.db RSSSF Archive Data Summary for España (Spain)
 | [span2014.txt](span2014.txt) | Karel Stokkermans | 29 Sep 2020 | 933 (28483) | Primera División (Liga BBVA), Copa del Rey, Segunda División (Liga Adelante) |
 | [span2013.txt](span2013.txt) | Karel Stokkermans | 13 Sep 2018 | 926 (28138) | Primera División (Liga BBVA), Copa del Rey, Segunda División (Liga Adelante) |
 | [span2012.txt](span2012.txt) | Karel Stokkermans | 28 Jan 2021 | 320 (10668) | Primera División (Liga BBVA), Copa del Rey, Segunda División (Liga Adelante) |
-| [span2011.txt](span2011.txt) | Anthony Zea | 25 Mar 2024 | 6410 (249441) | Primera División (Liga BBVA), Copa del Rey, Segunda División (Liga Adelante), Segunda División B |
+| [span2011.txt](span2011.txt) | Anthony Zea | 25 Mar 2024 | 6394 (248564) | Primera División (Liga BBVA), Copa del Rey, Segunda División (Liga Adelante), Segunda División B |
 
 
