@@ -141,12 +141,12 @@ Zaragoza                  2-2 Sporting
 Sociedad                  1-0 Espanyol
   [Juan Daniel Forlín 83og]
 Osasuna                   1-1 Levante
-  [Walter Pandiani 72; Sergio González79]
+  [Walter Pandiani 72; Sergio González 79]
 [Oct 3]
 Barcelona                 1-1 Mallorca
   [Lionel Messi 20; Sergio González N'Sue 42]
 Valencia                  2-1 Athletic
-  [Aritz Aduriz10, Vicente Rodríguez 90+; Igor Gabilondo 90+]
+  [Aritz Aduriz 10, Vicente Rodríguez 90+; Igor Gabilondo 90+]
 Sevilla                   3-1 Atlético
   [Alvaro Negredo 28, Diego Perotti 35, Frederic Kanouté 51;
    Diego Costa 57]
@@ -257,7 +257,7 @@ Zaragoza                  3-2 Mallorca
    Gabriel "Gabi" Fernández 90+pen; Pierre Achille Webó 19,
    Michael Pereira 60]
 Getafe                    1-3 Barcelona
-  ["Manu" Manuel del Moral Fernández70pen; Lionel Messi 22,
+  ["Manu" Manuel del Moral Fernández 70pen; Lionel Messi 22,
    David Villa 33 Pedro Rodríguez 64]
 Villarreal                4-1 Athletic
   ["Nilmar" Honorato da Silva 39, Santiago Cazorla 45,
@@ -921,7 +921,7 @@ Madrid                    2-3 Zaragoza
   [Sergio Ramos 62, Karim Benzema 85; Ángel Lafita 41, 77,
    Gabriel "Gabi" Fernandez 54pen]
 Sociedad                  2-1 Barcelona
-  [Diego Ifran 71, Xabi Prieto 82pen; Thiago Alcántara 29
+  [Diego Ifran 71, Xabi Prieto 82pen; Thiago Alcántara 29]
 Deportivo                 0-1 Atlético
   [Sergio Agüero 80]
 [May 1]

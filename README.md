@@ -7,7 +7,7 @@ España (Spain)
 | Season | League, Cup | Errors |
 | :----- | :---------- | -----: |
 | 2015-16 | [1-liga.txt](2015-16/1-liga.txt) |  OK  |
-| 2015-16 | [cup.txt](2015-16/cup.txt) |  **!! 3**  |
+| 2015-16 | [cup.txt](2015-16/cup.txt) |  OK  |
 | 2014-15 | [1-liga.txt](2014-15/1-liga.txt) |  OK  |
 | 2014-15 | [cup.txt](2014-15/cup.txt) |  OK  |
 | 2013-14 | [1-liga.txt](2013-14/1-liga.txt) |  OK  |
@@ -16,28 +16,14 @@ España (Spain)
 | 2012-13 | [cup.txt](2012-13/cup.txt) |  OK  |
 | 2011-12 | [1-liga.txt](2011-12/1-liga.txt) |  **!! 1**  |
 | 2011-12 | [cup.txt](2011-12/cup.txt) |  OK  |
-| 2010-11 | [1-liga.txt](2010-11/1-liga.txt) |  **!! 4**  |
+| 2010-11 | [1-liga.txt](2010-11/1-liga.txt) |  OK  |
 | 2010-11 | [cup.txt](2010-11/cup.txt) |  **!! 30**  |
 
 
-38 errors in 12 datafile(s)
+31 errors in 12 datafile(s)
 
 ```
-2015-16/cup.txt -- parse error (INSIDE_RE) - skipping >0-< @28,29
-     in line >Córdoba CF                0-1 CD Lugo                    fielded suspended player]<
-2015-16/cup.txt -- parse error (INSIDE_RE) - skipping >1-< @28,29
-     in line >Real Sociedad             1-1 UD Las Palmas              for fielding suspended<
-2015-16/cup.txt -- parse error (INSIDE_RE) - skipping >2-< @28,29
-     in line >Valencia CF               2-0 Barakaldo CF               player in first leg]<
 2011-12/1-liga.txt -- warn - heading with no text paragraph(s)
-2010-11/1-liga.txt -- parse error (INSIDE_RE) - skipping >González79< @38,39
-     in line >[Walter Pandiani 72; Sergio González79]<
-2010-11/1-liga.txt -- parse error (INSIDE_RE) - skipping >Aduriz10< @15,16
-     in line >[Aritz Aduriz10, Vicente Rodríguez 90+; Igor Gabilondo 90+]<
-2010-11/1-liga.txt -- parse error (INSIDE_RE) - skipping >Fernández70< @36,39
-     in line >["Manu" Manuel del Moral Fernández70pen; Lionel Messi 22,<
-2010-11/1-liga.txt -- parse error (INSIDE_RE) - skipping >0-< @28,29
-     in line >Deportivo                 0-1 Atlético<
 2010-11/cup.txt -- parse error (INSIDE_RE) - skipping >"< @31,32
      in line >["Jonathan" Apesteguía Olagüe " 44; Luis Blanco 68, Joel Alvarez 75]<
 2010-11/cup.txt -- parse error (INSIDE_RE) - skipping >"< @20,26
