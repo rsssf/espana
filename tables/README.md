@@ -13,7 +13,7 @@ football.db RSSSF Archive Data Summary for España (Spain)
 | [span2019.txt](span2019.txt) | Karel Stokkermans | 28 Jan 2021 | 958 (29884) | Primera División, Copa del Rey, Segunda División (Liga Adelante) |
 | [span2018.txt](span2018.txt) | Karel Stokkermans | 29 Sep 2020 | 941 (28431) | Primera División, Copa del Rey, Segunda División (Liga Adelante) |
 | [span2017.txt](span2017.txt) | Karel Stokkermans | 18 Jul 2019 | 940 (28989) | Primera División, Copa del Rey, Segunda División (Liga Adelante) |
-| [span2016.txt](span2016.txt) | Karel Stokkermans | 18 Jul 2019 | 920 (28487) | Primera División (Liga BBVA), Copa del Rey, Segunda División (Liga Adelante) |
+| [span2016.txt](span2016.txt) | Karel Stokkermans | 18 Jul 2019 | 920 (28488) | Primera División (Liga BBVA), Copa del Rey, Segunda División (Liga Adelante) |
 | [span2015.txt](span2015.txt) | Karel Stokkermans | 28 Jan 2021 | 936 (28441) | Primera División (Liga BBVA), Copa del Rey, Segunda División (Liga Adelante) |
 | [span2014.txt](span2014.txt) | Karel Stokkermans | 29 Sep 2020 | 933 (28483) | Primera División (Liga BBVA), Copa del Rey, Segunda División (Liga Adelante) |
 | [span2013.txt](span2013.txt) | Karel Stokkermans | 13 Sep 2018 | 926 (28138) | Primera División (Liga BBVA), Copa del Rey, Segunda División (Liga Adelante) |
