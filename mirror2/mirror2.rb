@@ -79,7 +79,21 @@ site.autofix_href =   ->(href) {
         href
 }
 
+=begin
+         ##
+         ## note - workaround for windows
+         ##     on windows File.exist? (and Webcache.cached?)
+         ##          is case-insensitive
+         ##    e.g. /USAdave/ is the same as /usadave/
+         ##
+         ##   as a workaround ALWAYS hardcode 404
+         ##    for /USAdave/    to get (and record) 404  (and not CACHE HITS!!)
+         ##   e.g. try https://rsssf.org/USAdave/cncc.html  => 404 (NOT FOUND)
+         ##            https://rsssf.org/usadave/cncc.html  => 200 (OK)
 
+        ## if %r{/USAdave/}.match?(page_rec.path)
+        ##                                 ['', {status: 404}]
+=end
 
 
 configs = parse_csv( <<TXT )
