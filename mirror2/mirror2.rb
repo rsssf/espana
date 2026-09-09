@@ -31,11 +31,53 @@ ERRATA_EDITS = read_edits( './mirror/errata.txt' )
 PAGE_ENCODINGS = Hash.new { |h,key| h[key] = 'windows-1252'  }
 
 
-site = Mirror::Website.new
+site = Webget::Mirror::Website.new
+
+###  check - auto-include  wwww.rsssf.org on rsssf.org  -- why? why not?
+###   yes, gets handled by autofix_href  (see  sub('www.rsssf.org', 'rsssf.org')
 site.base_url       = 'https://rsssf.org'
 
 site.errata_edits   = ERRATA_EDITS
 site.page_encodings = PAGE_ENCODINGS
+
+
+
+## prefer (boost) pages  (with path like)
+##    starting with /tables,/tables[a-z]/
+##  => resulting in Page.where( 'path LIKE ?', '/table%' ) query
+site.boost_pages_path_like = '/table%'
+
+
+#####################
+## auto-fix ("site-wide") known quirks:
+site.autofix_href =   ->(href) {
+
+        ##   www.rsssf.org/miscellaneous/penalties.html =>
+        ##               /miscellaneous/penalties.html
+        href = href.sub( %r{^www.rsssf.org}i, '' )
+
+        ##
+        ##   http.//  => http://
+        href = href.sub( %r{^http\.//}i, 'http://' )
+
+        ##   .html.html  => .html
+        ##   e.g.  /tablesf/francarib2010.html.html
+        ##         /tablest/tsje22.html.html
+        href = href.sub( %r{\.html\.html}i, '.html' )
+
+
+        ###
+        ##  always downcase  /USAdave/ => /usadave/
+        href = href.sub( '/USAdave/', '/usadave/' )
+
+        ##
+        ##    auto-change
+        ##  if www.rsssf.org  change to  rsssf.org
+        ##    maybe check for www.rsssf.org/ or such - why? why not?
+        href = href.sub( 'www.rsssf.org', 'rsssf.org' )
+
+        href
+}
 
 
 
@@ -123,11 +165,15 @@ MirrorDb.open( './mirror2.db'  )
 =end
 
 
-site.mirror_pages()
+##  kick-off mirror (operation/run)
+site.mirror
 
 
 
 puts "bye"
+
+
+
 
 
 __END__
