@@ -1,10 +1,9 @@
 ####
 #  to run use:
 #
-#    $ ruby mirror/test_edits.rb
+#    $ ruby mirrortest/test_edits.rb
 
-require_relative 'mirror'
-
+require_relative 'helper'
 
 
 

@@ -31,11 +31,40 @@ site.base_url = 'https://rsssf.org'
 ###  lookup by path e.g. /curtour.html
 PAGE_ENCODINGS = Hash.new { |h,key| h[key] = 'windows-1252'  }
 
-## lookup page encoding by path
+## lookup (user) page encoding by path
 ##    maybe change later to url - why? why not?
+
+##    bom|html|http|user|fallback
+
 site.page_encoding =   ->( path ) {
        PAGE_ENCODINGS[ path ]
 }
+
+
+##   will take precedence over html|http  (not bom)
+##   use to autofix wrong encoding in html meta !!!
+##     bom|force
+site.force_page_encoding =   ->( path ) {
+
+## GET https://rsssf.org/tablesa/argchamp.html...
+##    <meta http-equiv="Content-Type" content="text/html; charset=UTFs-8">
+##    [debug] !!! WARN - overwrite response.text encoding; >windows-1252< overridden by >UTF-8< html meta charset
+##       unicode_normalize/normalize.rb:126:in `gsub': invalid byte sequence in UTF-8 (ArgumentError)
+##
+## [cache] saving   cache/rsssf.org/tables/2002full.html...
+##    fix - wrong charset!!!
+##    <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+##  [debug] !!! WARN - overwrite response.text encoding; >windows-1252< overridden by >UTF-8< html meta charset
+##     unicode_normalize/normalize.rb:126:in `gsub': invalid byte sequence in UTF-8
+       if path == '/tablesa/argchamp.html' ||
+          path == '/tables/2002full.html'  ||
+          path == '/tablesb/baltic01.html'
+            'windows-1252'
+       else
+            nil
+       end
+}
+
 
 
 ##
