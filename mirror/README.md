@@ -25,7 +25,12 @@ note - the web pages get (by default) cached in `./cache`
 
 
 
-
+use control-c to stop the mirror
+and use ``ruby mirror/mirror.rb` to restart.
+all visited pages and queued links
+are stored in the `./mirror.db` and, thus,
+the mirror can continue / resume  (without starting from zero / scratch again)
+automatically.
 
 
 

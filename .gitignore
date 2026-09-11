@@ -2,6 +2,7 @@
 #  add (web) local cache and tmp and o(utput) dirs
 cache/
 cache2/
+cache_v0/
 tmp/
 tmp2/
 tmp3/
