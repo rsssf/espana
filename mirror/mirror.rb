@@ -102,7 +102,13 @@ site.autofix_href =   ->(href) {
 
         ##   www.rsssf.org/miscellaneous/penalties.html =>
         ##               /miscellaneous/penalties.html
-        href = href.sub( %r{^www.rsssf.org}i, '' )
+        href = href.sub( %r{^www\.rsssf\.org}i, '' )
+
+        ##    auto-change quick hack:
+        ##  if www.rsssf.org  change to  rsssf.org
+        ##    maybe check for www.rsssf.org/ or such - why? why not?
+        href = href.sub( %r{www\.rsssf\.org}i, 'rsssf.org' )
+
 
         ##
         ##   http.//  => http://
@@ -116,13 +122,10 @@ site.autofix_href =   ->(href) {
 
         ###
         ##  always downcase  /USAdave/ => /usadave/
+        ##   same on rsssf.org website (gets downcased too) on request
+
         href = href.sub( '/USAdave/', '/usadave/' )
 
-        ##
-        ##    auto-change
-        ##  if www.rsssf.org  change to  rsssf.org
-        ##    maybe check for www.rsssf.org/ or such - why? why not?
-        href = href.sub( 'www.rsssf.org', 'rsssf.org' )
 
 
 ##
@@ -135,11 +138,23 @@ site.autofix_href =   ->(href) {
 ##
 ##    arg-champdet-1990-1999.html#Torneo Clausura 1997 - River Plate =>
 ##    arg-champdet-1990-1999.html#Torneo_Clausura_1997_-_River_Plate
-         href = href.gsub( ' ', '_' )
+##     was:    href = href.gsub( ' ', '_' )
+
+## auto-remove (cut-off) all fragments !!!
+##    arg-champdet-1990-1999.html#Torneo Clausura 1997 - River Plate =>
+##    arg-champdet-1990-1999.html
+##   ../players/ericodata.html#[#] =>
+##   ../players/ericodata.html
+##
+## The unencoded # symbol is used exclusively to separate the main web address
+##   from a fragment identifier (also known as an anchor or hash).
+##  Browsers use it to automatically scroll down to a specific section of a webpage.
+        href = href.sub( %r{#.*}, '' )
 
 
         href
 }
+
 
 =begin
          ##

@@ -3,7 +3,8 @@
 #
 #    $ ruby mirrortest/test_edits.rb
 
-require_relative 'helper'
+require 'cocos'
+require_relative '../mirror/_cocos_'
 
 
 

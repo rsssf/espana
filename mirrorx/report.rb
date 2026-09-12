@@ -3,13 +3,13 @@
 ###
 #  to run use:
 #
-#   $ ruby mirror/report.rb
+#   $ ruby mirrorx/report.rb
 
 
-require_relative 'mirror'
+require_relative 'helper'
 
 
-MirrorDb.open
+MirrorDb.open( './mirror2.db' )
 
 
 buf = String.new
@@ -22,6 +22,7 @@ buf << "\n\n"
 
 
 puts buf
+
 
 
 
@@ -102,8 +103,9 @@ text =<<TXT
 TXT
 
 
-
-write_text( "./mirror/SUMMARY.md", text)
+outpath = "./tmp/SUMMARY.md"
+puts " writing to >#{outpath}<..."
+write_text( outpath, text)
 
 
 

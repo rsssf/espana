@@ -8,6 +8,76 @@
 ##     for option use   !g or !!g or /g or ?g or ??
 
 
+
+##  I'd have:
+##
+##   replace       - replace first occurrence
+##   replace-all   - replace all occurrences
+##   regex         - regex, first match
+##   regex-all     - regex, all matches
+##
+##
+##   s  "old" => "new"       # string, once
+##   sg "old" => "new"       # string, global
+##   r  /old/ => "new"       # regex, once
+##   rg /old/ => "new"       # regex, global
+##
+##   s  = string, r  = regex, g  = global
+##
+##
+## rather than making everything regex by default.
+##
+## For example:
+##
+##  page /tablesp/poland-satrip77.html
+##    replace "<a href=\"..//nersssf.html\">" => "<a href=\"../nersssf.html\">"
+##
+##  page /tablesc/col2012.html
+##    replace-all "<a href=\"2apercuad\">" => "<a href=\"#2apercuad\">"
+##
+##  And only if you really need it:
+##
+##  page /some-page.html
+##     regex-all /<a href="([^"]+)">/ => ...
+
+
+
+##
+##  maybe use
+##    g  global flag
+##    and mark regexes inside %r{}  or r{}
+##                         or   //?
+##                         or  %r<>
+##
+##  let g go first or last?
+##
+##
+## Or, even more compactly:
+##
+## s "old text" => "new text"
+## s "old text" => "new text" g
+##
+## s %r{old.*text} => "new text"
+## s %r{old.*text} => "new text" g
+##
+## s /old.*text/ => "new text"
+## s /old.*text/ => "new text" g
+##
+##  there's no need for four operations at all. You have:
+## one operation (s), two match types, and one modifier.
+##  That's elegant.
+##
+##  So the grammar becomes beautifully small:
+##     [s]  <literal|string-or-regex> => <replacement> [g]
+##
+##  foo                 # "bare" (unquoted) literal
+## "foo bar"           # quoted literal
+## 'foo bar'           # quoted literal
+## /foo\s+bar/         # regex
+## %r{foo\s+bar}       # regex
+
+
+
 ##
 ##  fix broken a hrefs
 
