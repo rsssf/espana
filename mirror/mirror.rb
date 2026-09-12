@@ -34,7 +34,8 @@ PAGE_ENCODINGS = Hash.new { |h,key| h[key] = 'windows-1252'  }
 ## lookup (user) page encoding by path
 ##    maybe change later to url - why? why not?
 
-##    bom|html|http|user|fallback
+##    bom|force|html|http|user|fallback
+##       note - fallback (defaults to UTF-8)
 
 site.page_encoding =   ->( path ) {
        PAGE_ENCODINGS[ path ]
@@ -46,19 +47,21 @@ site.page_encoding =   ->( path ) {
 ##     bom|force
 site.force_page_encoding =   ->( path ) {
 
-## GET https://rsssf.org/tablesa/argchamp.html...
+##  wrong html meta charset in page (e.g. utf-8 BUT really is Windows-1252 !!!)
+##    <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
 ##    <meta http-equiv="Content-Type" content="text/html; charset=UTFs-8">
 ##    [debug] !!! WARN - overwrite response.text encoding; >windows-1252< overridden by >UTF-8< html meta charset
 ##       unicode_normalize/normalize.rb:126:in `gsub': invalid byte sequence in UTF-8 (ArgumentError)
 ##
-## [cache] saving   cache/rsssf.org/tables/2002full.html...
-##    fix - wrong charset!!!
-##    <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
-##  [debug] !!! WARN - overwrite response.text encoding; >windows-1252< overridden by >UTF-8< html meta charset
-##     unicode_normalize/normalize.rb:126:in `gsub': invalid byte sequence in UTF-8
+## GET https://rsssf.org/tablesa/argchamp.html...
+## GET https://rsssf.org/tables/2002full.html...
+## GET https://rsssf.org/tableso/ol1964q.html...
+
+
        if path == '/tablesa/argchamp.html' ||
           path == '/tables/2002full.html'  ||
-          path == '/tablesb/baltic01.html'
+          path == '/tablesb/baltic01.html' ||
+          path == '/tableso/ol1964q.html'
             'windows-1252'
        else
             nil
@@ -121,6 +124,20 @@ site.autofix_href =   ->(href) {
         ##    maybe check for www.rsssf.org/ or such - why? why not?
         href = href.sub( 'www.rsssf.org', 'rsssf.org' )
 
+
+##
+##     inline spaces not allowed in fragments
+##        replace all spaces with underscore for now
+##
+##  bad url in /tablesa/argchamp-performances.html:
+## arg-champdet-1990-1999.html#Torneo Clausura 1997 - River Plate
+##  ex:bad URI(is not URI?): "arg-champdet-1990-1999.html#Torneo Clausura 1997 - River Plate"
+##
+##    arg-champdet-1990-1999.html#Torneo Clausura 1997 - River Plate =>
+##    arg-champdet-1990-1999.html#Torneo_Clausura_1997_-_River_Plate
+         href = href.gsub( ' ', '_' )
+
+
         href
 }
 
@@ -141,12 +158,11 @@ site.autofix_href =   ->(href) {
 =end
 
 
-configs = parse_csv( <<TXT )
+
+site.start_pages = parse_words( <<TXT )
 
 ## starter pages for (recursive) mirror
 ##   if no encoding specified - assumes windows-1252 !!
-
-page, encoding
 
 ##  /index.html
 ##  not really use all pages link to  /nersssf.html  (basically the same page)
@@ -172,7 +188,6 @@ TXT
 
 
 
-site.start_pages = configs
 
 ## prefer (boost) pages  (with path like)
 ##    starting with /tables,/tables[a-z]/
